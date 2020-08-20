@@ -19,6 +19,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich hab bei den Weight Watchers angerufen: Aber keine hat abgenommen
 - Ich hab bei einem Brötchen angerufen, aber: War belegt
 - Ich hab bei nem DJ angerufen: Der hat einfach aufgelegt
+- Ich hab in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
 - Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam
@@ -37,7 +38,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wann gehen U-Boote unter? Am Tag der offenen Tűr.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
+- Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können
+- Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Wie sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
@@ -89,6 +92,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
 - Welches Obst geht immer in die Kirche? Die Frommbeere
+- Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
 - Wer wohnt im Dschungel und schummelt? Mowgli
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
@@ -107,6 +111,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
