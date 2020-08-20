@@ -7,21 +7,21 @@ Gerne weitere als Pull-Request hinzufügen.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
 - Beim Zahnarzt: „ Das kann jetzt ein bisschen weh tun.“ - „Kein Problem“ - „Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau
 - Brennholzverleih
-- Der Pfannkuchenbaecker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+- Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
-- Ein Mittelamerika gibt es kaum gute Tapezierer - aber dafuer Guatemala!
+- Ein Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - Fliegt ein Kuckucks übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
 - Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht
 - Ich hab bei den Weight Watchers angerufen: Aber keine hat abgenommen
-- Ich hab bei einem broetchen angerufen, aber: War belegt
+- Ich hab bei einem Brötchen angerufen, aber: War belegt
 - Ich hab bei nem DJ angerufen: Der hat einfach aufgelegt
 - Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam
-- In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhaelter drin?
+- In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
 - Kommt ein Pferd in den Blumenladen: Haben sie Mageriten? (ma' geritten)
