@@ -91,7 +91,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
 - Wie nennt man einen kleinen Matrosen, der sich nicht waescht? Na: Ein Meerschweinchen!
 - Wie viel wiegen ein Pferd und ein hund zusammen? Ein PfHund!
-- Wie viele Psychotherapeuten braucht man um eine Gluehbirne zu wechseln? Eine, aber die Birne muss auch wollen.
+- Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Eine, aber die Birne muss auch wollen.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
