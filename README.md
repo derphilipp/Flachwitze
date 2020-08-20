@@ -49,28 +49,38 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
 - Was hüpft durch den Wald und raucht? Ein Kam-inchen
+- Was isst Familie Biber zu abend? Tischstäbchen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot
+- Was ist braun und hängt mit nem Warndreieck im baum? Ein Pannenzapfen.
+- Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
+- Was ist gelb und läuft den Baum hoch? Ein Posthörnchen
+- Was ist gelb und schießt? Eine Banone
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär
+- Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus
+- Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, springt durchs Grass und ist super happy? Eine Freuschrecke.
+- Was ist orange und läuft über die Berge? Eine Wanderine
 - Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und stört beim Essen? Eine Lawine
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
 - Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel!
-- Was machen 2 wütende Schafe? Sie bekommen sich in die Wolle!
+- Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle!
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht ein Arbeitsloser Schauspieler? Spielt keine Rolle
+- Was macht ein Clown im Büro? Faxen
 - Was macht eine Bombe im Bordell? — Puff.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schűler? Kannste knicken!
 - Was sagt ein Origami-Lehrer zu seinem Schüler? — „Das kannste knicken.“
+- Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten
 - Was sitzt auf dem Baum und schreit "Aha!" - Ein uhu mit Sprachfehler
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt im Baum und weint? Eine Heule!
@@ -78,6 +88,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
+- Welches Obst geht immer in die Kirche? Die Frommbeere
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
 - Wer wohnt im Dschungel und schummelt? Mowgli
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
@@ -96,6 +107,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
