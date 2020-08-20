@@ -75,8 +75,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
-- Welche Handwerker essen am meisten? Maurer, die verputzen ganze Haeuser
-- Welcher Fisch nervt im Unterricht? Na der Stoer!
+- Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
+- Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
 - Wer wohnt im Dschungel und schummelt? Mowgli
@@ -89,7 +89,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
-- Wie nennt man einen kleinen Matrosen, der sich nicht waescht? Na: Ein Meerschweinchen!
+- Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie viel wiegen ein Pferd und ein hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Eine, aber die Birne muss auch wollen.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
