@@ -111,7 +111,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
-- Wohin geht ein Baum, wenn ihm er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
+- Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
