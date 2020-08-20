@@ -1,4 +1,5 @@
 # Flachwitze
+
 Dies ist eine Liste deutscher [Flachwitze](https://de.wikipedia.org/wiki/Kalauer).
 Gerne weitere als Pull-Request hinzufügen.
 
