@@ -38,6 +38,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wann gehen U-Boote unter? Am Tag der offenen Tűr.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
+- (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
