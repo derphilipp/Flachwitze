@@ -117,3 +117,5 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
+- Warum steht das Pils im Wald? Weil die Tannen zapfen.
+- Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
