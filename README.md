@@ -4,7 +4,6 @@ Dies ist eine Liste deutscher [Flachwitze](https://de.wikipedia.org/wiki/Kalauer
 Gerne weitere als Pull-Request hinzufügen.
 
 ## Die Flachwitze
-
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
 - Beim Zahnarzt: „ Das kann jetzt ein bisschen weh tun.“ - „Kein Problem“ - „Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau
 - Brennholzverleih
@@ -37,13 +36,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben"
 - Wann gehen U-Boote unter? Am Tag der offenen Tűr.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
+- Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
+- Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
-- Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können
-- Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Wie sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
+- Warum steht das Pils im Wald? Weil die Tannen zapfen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wer werden Seen
@@ -80,6 +80,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht ein Arbeitsloser Schauspieler? Spielt keine Rolle
 - Was macht ein Clown im Büro? Faxen
 - Was macht eine Bombe im Bordell? — Puff.
+- Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schűler? Kannste knicken!
@@ -117,5 +118,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
-- Warum steht das Pils im Wald? Weil die Tannen zapfen.
-- Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
