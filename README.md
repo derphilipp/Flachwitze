@@ -4,6 +4,7 @@ Dies ist eine Liste deutscher [Flachwitze](https://de.wikipedia.org/wiki/Kalauer
 Gerne weitere als Pull-Request hinzufügen.
 
 ## Die Flachwitze
+
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
 - Beim Zahnarzt: „ Das kann jetzt ein bisschen weh tun.“ - „Kein Problem“ - „Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau
 - Brennholzverleih
