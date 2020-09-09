@@ -5,6 +5,7 @@ Gerne weitere als Pull-Request hinzufügen.
 
 ## Die Flachwitze
 
+- (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
 - Beim Zahnarzt: „ Das kann jetzt ein bisschen weh tun.“ - „Kein Problem“ - „Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau
 - Brennholzverleih
@@ -16,12 +17,15 @@ Gerne weitere als Pull-Request hinzufügen.
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
 - Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht
-- Ich hab bei den Weight Watchers angerufen: Aber keine hat abgenommen
-- Ich hab bei einem Brötchen angerufen, aber: War belegt
-- Ich hab bei nem DJ angerufen: Der hat einfach aufgelegt
-- Ich hab in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
+- Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
+- Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen
+- Ich habe bei einem Brötchen angerufen, aber: War belegt
+- Ich habe bei nem DJ angerufen: Der hat einfach aufgelegt
+- Ich habe beim Bäcker angerufen, da ging aber nur die Mehlbox ran.
+- Ich habe beim Metzger angerufen, aber kein Schwein ging ran., aber der hatte kein Netz.
 - Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen
+- Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam
 - In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
@@ -30,6 +34,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
+- Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
+- Sagt die eine Kerze zur anderen: Du, ist Wasser eigentlich gefährlich? - Sagt die andere: Davon kannst Du ausgehen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Stiftung Wartentest hat Besteck getestet. Das Messer hat am besten abgeschnitten
 - Tonic ohne Alkohol ist übrigens ginlos.
@@ -40,11 +46,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können
-- (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Wie sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
+- Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum steht das Pils im Wald? Weil die Tannen zapfen.
+- Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
+- Warum summen Bienen? Wie sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wer werden Seen
@@ -53,47 +61,87 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
-- Was hüpft durch den Wald und raucht? Ein Kam-inchen
+- Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
+- Was hat einen Beutel und schießt? Ein Penguruh.
+- Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot
 - Was ist braun und hängt mit nem Warndreieck im baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
+- Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
+- Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
+- Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
+- Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+- Was ist gelb und flattert im Wind? Eine Fahnane.
+- Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und läuft den Baum hoch? Ein Posthörnchen
-- Was ist gelb und schießt? Eine Banone
-- Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär
+- Was ist gelb und schießt? Eine Banone.
+- Was ist gelb und schwimmt übern See? Eine Schwanane.
+- Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
+- Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus
+- Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
+- Was ist grün und liegt im Sarg? Eine Sterbse.
+- Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
+- Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
+- Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
+- Was ist grün, hängt ander Türklinke und kucht durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
+- Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
 - Was ist grün, springt durchs Grass und ist super happy? Eine Freuschrecke.
+- Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
+- Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist orange und läuft über die Berge? Eine Wanderine
 - Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
+- Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand
+- Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
+- Was ist schwerz-weiß und explodiert? Ein Sprenguin.
+- Was ist schwerz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
+- Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
+- Was ist unter der Erde und stinkt? Eine Furzel.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
+- Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und stört beim Essen? Eine Lawine
+- Was istr rot und wiehert? Eine Pferdbeere.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
-- Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel!
-- Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle!
+- Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erklältet? Eine Niesnuschel.
+- Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel.
+- Was machen PiratInnen, wenn Sie nicht mehr weiterwissen? Einen Arrrrrrrbeitskreis.
+- Was machen Tiere in der Disko? Sie diskotieren.
+- Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
-- Was macht ein Arbeitsloser Schauspieler? Spielt keine Rolle
-- Was macht ein Clown im Büro? Faxen
+- Was macht ein Arbeitsloser Schauspieler? Spielt keine Rolle.
+- Was macht ein Clown im Büro? Faxen.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
+- Was piekst und fliest das Bad? Ein Kachelschwein.
+- Was sagt der Fuchs im Hühnerstall? Raus aus den Federn!
+- Was sagt der Holzwurmpappa abends zu seinen Kindern? Husch, husch ab ins Brettchen.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
-- Was sagt der frustrierte Origami-Lehrer zu seinem Schűler? Kannste knicken!
+- Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
+- Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
+- Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
 - Was sagt ein Origami-Lehrer zu seinem Schüler? — „Das kannste knicken.“
+- Was sagt ein Pirat im Pferdestall? A, Heu.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten
+- Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
 - Was sitzt auf dem Baum und schreit "Aha!" - Ein uhu mit Sprachfehler
+- Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
+- Wast sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
+- Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
@@ -102,12 +150,17 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt ein Spanier ohne Auto? — Carlos
 - Wie nennt man den Flur eines Iglus? — Eisdiele!
+- Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
+- Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein weißes Mammut? Hell-mut!
+- Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
+- Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
+- Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
 - Wie viel wiegen ein Pferd und ein hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Eine, aber die Birne muss auch wollen.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
@@ -119,3 +172,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
+- Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
