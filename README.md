@@ -104,6 +104,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist schwerz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwerz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
+- Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
@@ -126,7 +127,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sagt der Holzwurmpappa abends zu seinen Kindern? Husch, husch ab ins Brettchen.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
-- Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
 - Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
 - Was sagt ein Origami-Lehrer zu seinem Schüler? — „Das kannste knicken.“
 - Was sagt ein Pirat im Pferdestall? A, Heu.
