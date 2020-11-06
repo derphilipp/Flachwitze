@@ -12,7 +12,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
-- Ein Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - Fliegt ein Kuckucks übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
@@ -28,6 +27,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen
 - Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam
+- In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
