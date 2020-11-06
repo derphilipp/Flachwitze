@@ -52,7 +52,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Wie sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
-- Warum steht das Pils im Wald? Weil die Tannen zapfen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Wie sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
