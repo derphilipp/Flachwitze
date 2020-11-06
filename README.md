@@ -16,7 +16,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Fliegt ein Kuckucks übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
-- Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht
+- Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht.
+- Hüpft ein Rudel Gurken durch den Wald. Was ist flasch? Gurken sind keine Rudeltiere.
 - Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
 - Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen
 - Ich habe bei einem Brötchen angerufen, aber: War belegt
