@@ -38,6 +38,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
 - Sagt die eine Kerze zur anderen: Du, ist Wasser eigentlich gefährlich? - Sagt die andere: Davon kannst Du ausgehen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
+- Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
 - Stiftung Wartentest hat Besteck getestet. Das Messer hat am besten abgeschnitten
 - Tonic ohne Alkohol ist übrigens ginlos.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
