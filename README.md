@@ -22,7 +22,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich habe bei einem Brötchen angerufen, aber: War belegt
 - Ich habe bei nem DJ angerufen: Der hat einfach aufgelegt
 - Ich habe beim Bäcker angerufen, da ging aber nur die Mehlbox ran.
-- Ich habe beim Metzger angerufen, aber kein Schwein ging ran., aber der hatte kein Netz.
+- Ich habe beim Metzger angerufen, aber kein Schwein ging ran.
 - Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen
 - Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
