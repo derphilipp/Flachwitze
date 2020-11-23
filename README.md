@@ -16,7 +16,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
 - Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht.
-- Hüpft ein Rudel Gurken durch den Wald. Was ist flasch? Gurken sind keine Rudeltiere.
+- Hüpft ein Rudel Gurken durch den Wald. Was ist falsch? Gurken sind keine Rudeltiere.
 - Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
 - Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen
 - Ich habe bei einem Brötchen angerufen, aber: War belegt
@@ -53,7 +53,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
-- Warum summen Bienen? Wie sie den Text nicht kennen.
+- Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wer werden Seen
@@ -71,6 +71,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
+- Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
@@ -94,7 +95,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün, hängt ander Türklinke und kucht durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
-- Was ist grün, springt durchs Grass und ist super happy? Eine Freuschrecke.
+- Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist orange und läuft über die Berge? Eine Wanderine
@@ -138,7 +139,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
-- Wast sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
+- Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
@@ -182,6 +183,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
 - Wie viel wiegen ein Pferd und ein hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Eine, aber die Birne muss auch wollen.
+- Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
