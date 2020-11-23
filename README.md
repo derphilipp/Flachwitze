@@ -72,6 +72,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
+- Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
