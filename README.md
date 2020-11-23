@@ -162,6 +162,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
 - Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
 - Wie nennt man einen Hering, der beleidigt ist? Einen Schmollmops.
+- Wie nennt man einen Hering, der die besten Memes postet? Einen Lolmops.
 - Wie nennt man einen Hering, der doofe Kommentare schreibt? Einen Trollmops.
 - Wie nennt man einen Hering, der gerne Atombombentests macht? Einen Atollmops.
 - Wie nennt man einen Hering, der gerne Befehle befolgt? Einen Jawollmops.
