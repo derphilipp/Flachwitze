@@ -159,6 +159,22 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
+- Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
+- Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
+- Wie nennt man einen Hering, der beleidigt ist? Einen Schmollmops.
+- Wie nennt man einen Hering, der doofe Kommentare schreibt? Einen Trollmops.
+- Wie nennt man einen Hering, der gerne Atombombentests macht? Einen Atollmops.
+- Wie nennt man einen Hering, der gerne Befehle befolgt? Einen Jawollmops.
+- Wie nennt man einen Hering, der gerne Fussball mag? Einen (Mehmet) Schollmops.
+- Wie nennt man einen Hering, der gerne strickt? Einen Wollmops.
+- Wie nennt man einen Hering, der immer alles aufschreibt? Einen Protokollmops.
+- Wie nennt man einen Hering, der immer alles machen muss? Einen Sollmops.
+- Wie nennt man einen Hering, der immer nur traurige Musik spielt? Einen Mollmops.
+- Wie nennt man einen Hering, der immer sauer ist? Einen Grollmops.
+- Wie nennt man einen Hering, der immer total begeistert ist? Einen Tollmops.
+- Wie nennt man einen Hering, der sehr unkultiviert ist? Einen Prollmops.
+- Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
+- Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
