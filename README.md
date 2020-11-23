@@ -7,7 +7,7 @@ Gerne weitere als Pull-Request hinzufügen.
 
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
-- Beim Zahnarzt: „ Das kann jetzt ein bisschen weh tun.“ - „Kein Problem“ - „Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau
+- Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem" - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau"
 - Brennholzverleih
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
@@ -31,7 +31,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
-- Kommt ein Pferd in den Blumenladen: Haben sie Mageriten? (ma' geritten)
+- Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
@@ -150,8 +150,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer wohnt im Dschungel und schummelt? Mowgli
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
-- Wie heißt ein Spanier ohne Auto? — Carlos
-- Wie nennt man den Flur eines Iglus? — Eisdiele!
+- Wie heißt ein Spanier ohne Auto? Carlos
+- Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
