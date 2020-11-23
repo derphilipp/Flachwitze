@@ -173,6 +173,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der immer sauer ist? Einen Grollmops.
 - Wie nennt man einen Hering, der immer total begeistert ist? Einen Tollmops.
 - Wie nennt man einen Hering, der sehr unkultiviert ist? Einen Prollmops.
+- Wie nennt man einen Hering, der sich für Umfragen interessiert? Einen Pollmops.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
