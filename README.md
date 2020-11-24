@@ -56,7 +56,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
-- Was denken sich die Gletscher zum Klimawandel? Wer werden Seen
+- Was denken sich die Gletscher zum Klimawandel? Wir werden Seen
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Piraten am liebsten? — Kapern.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
@@ -67,7 +67,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot
-- Was ist braun und hängt mit nem Warndreieck im baum? Ein Pannenzapfen.
+- Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
@@ -93,49 +93,47 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
-- Was ist grün, hängt ander Türklinke und kucht durchs Schlüsselloch? Ein Spionat.
+- Was ist grün, hängt ander Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
 - Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
-- Was ist orange und läuft über die Berge? Eine Wanderine
 - Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
-- Was ist schwerz-weiß und explodiert? Ein Sprenguin.
-- Was ist schwerz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
+- Was ist schwarz-weiß und explodiert? Ein Sprenguin.
+- Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und stört beim Essen? Eine Lawine
-- Was istr rot und wiehert? Eine Pferdbeere.
+- Was ist rot und wiehert? Eine Pferdbeere.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
-- Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erklältet? Eine Niesnuschel.
 - Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel.
+- Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
 - Was machen PiratInnen, wenn Sie nicht mehr weiterwissen? Einen Arrrrrrrbeitskreis.
 - Was machen Tiere in der Disko? Sie diskotieren.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
-- Was macht ein Arbeitsloser Schauspieler? Spielt keine Rolle.
+- Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
 - Was sagt der Fuchs im Hühnerstall? Raus aus den Federn!
-- Was sagt der Holzwurmpappa abends zu seinen Kindern? Husch, husch ab ins Brettchen.
+- Was sagt der Holzwurmpapa abends zu seinen Kindern? Husch, husch ab ins Brettchen.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
 - Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
-- Was sagt ein Origami-Lehrer zu seinem Schüler? — „Das kannste knicken.“
 - Was sagt ein Pirat im Pferdestall? A, Heu.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten
 - Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
-- Was sitzt auf dem Baum und schreit "Aha!" - Ein uhu mit Sprachfehler
+- Was sitzt auf dem Baum und schreit "Aha!" - Ein Uhu mit Sprachfehler
 - Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt im Baum und weint? Eine Heule!
@@ -182,8 +180,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
-- Wie viel wiegen ein Pferd und ein hund zusammen? Ein PfHund!
-- Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Eine, aber die Birne muss auch wollen.
+- Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
+- Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
