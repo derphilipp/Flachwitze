@@ -85,7 +85,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und läuft den Baum hoch? Ein Posthörnchen
 - Was ist gelb und schießt? Eine Banone.
 - Was ist gelb und schwimmt übern See? Eine Schwanane.
-- Was ist gelb und kann nicht schwimmen? Ein Bagger.
+- Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
