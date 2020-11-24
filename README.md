@@ -62,6 +62,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
+- Was hat acht Beine und schummelt? Eine Mogelspinne.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
@@ -78,15 +79,19 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+- Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und läuft den Baum hoch? Ein Posthörnchen
 - Was ist gelb und schießt? Eine Banone.
 - Was ist gelb und schwimmt übern See? Eine Schwanane.
+- Was ist gelb und kann nicht schwimmen? Ein Bagger.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
+- Was ist groß, grau und ruft gleich an? Ein Telefant.
 - Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus
+- Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
@@ -98,7 +103,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
 - Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
+- Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
+- Was ist lila und bedient im Restaurant? Eine Obergine.
+- Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
+- Was ist orange und kann nicht stillsitzen? Eine Zappelsine
 - Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand
@@ -111,7 +120,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und stört beim Essen? Eine Lawine
+- Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
+- Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist rot und wiehert? Eine Pferdbeere.
+- Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
 - Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel.
 - Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
@@ -132,12 +144,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
 - Was sagt ein Pirat im Pferdestall? A, Heu.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten
+- Was schwimmt im Meer und addiert? Ein Oktoplus.
 - Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
 - Was sitzt auf dem Baum und schreit "Aha!" - Ein Uhu mit Sprachfehler
 - Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
+- Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welcher Fisch nervt im Unterricht? Na der Stör!
@@ -147,6 +161,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
 - Wer wohnt im Dschungel und schummelt? Mowgli
+- Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
+- Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt ein Spanier ohne Auto? Carlos
