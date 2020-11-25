@@ -70,6 +70,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
+- Was ist braun und steht am Straßenrand? Ein Erdnüttchen.
+- Was ist braun und klopft ans Fenster? Ein Baby im Backofen.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
