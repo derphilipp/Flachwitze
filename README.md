@@ -94,6 +94,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
+- Was ist grün und macht die Toilette sauber? Ein Klokodil.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
 - Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
