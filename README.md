@@ -120,6 +120,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist unter der Erde und stinkt? Eine Furzel.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
+- Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
 - Was ist weiß und stört beim Essen? Eine Lawine
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
@@ -146,6 +147,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sagt ein Pirat im Pferdestall? A, Heu.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
+- Was sind die teuersten Tomaten? Die Geldautomaten.
 - Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
 - Was sitzt auf dem Baum und schreit "Aha!" - Ein Uhu mit Sprachfehler
 - Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
@@ -155,13 +157,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
+- Welche Schuhe tragen Raubfische sehr gern? Hai-Heels
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
-- Wer wohnt im Dschungel und schummelt? Mowgli
+- Wer wohnt im Dschungel und schummelt? Mogli
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
