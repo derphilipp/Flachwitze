@@ -158,6 +158,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels
+- Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
