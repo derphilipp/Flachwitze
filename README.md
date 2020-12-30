@@ -49,7 +49,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
-- Warum können Seeräuber schlecht mit Kreisen Rechnen? Wie sie Pi-Raten!
+- Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
