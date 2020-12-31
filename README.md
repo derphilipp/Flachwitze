@@ -217,3 +217,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- Wenn ein südamerikanisches Kameltier betrunke ist, ist das dann ein Alkpaka?
