@@ -170,6 +170,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer wohnt im Dschungel und schummelt? Mogli
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
+- Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt ein Spanier ohne Auto? Carlos
