@@ -165,7 +165,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
-- Wenn Nicolas Wöhrl sich ein Brötchen schmiert .... ist es dann wissenschaftlich belegt?
+- Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
+- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wer wohnt im Dschungel und schummelt? Mogli
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
