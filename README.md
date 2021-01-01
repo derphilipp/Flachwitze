@@ -55,8 +55,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
+- Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen
+- Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Piraten am liebsten? — Kapern.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
@@ -103,6 +105,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
 - Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
+- Was ist heiss und flauschig? Eine Fellkartoffel.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
@@ -157,6 +160,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
+- Was studiert man für einen Führerschein? Fahr-ma-kologie.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
@@ -213,6 +217,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
