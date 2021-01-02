@@ -58,6 +58,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen
+- Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Piraten am liebsten? — Kapern.
