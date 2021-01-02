@@ -180,6 +180,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Spanier ohne Auto? Carlos
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
+- Wie nennt man ein Monster mit Schnupfen? Rotzilla
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein weißes Mammut? Hell-mut!
