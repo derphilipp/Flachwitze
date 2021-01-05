@@ -102,7 +102,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
-- Was ist grün, hängt ander Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
+- Was ist grün, hängt an der Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
 - Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
