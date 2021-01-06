@@ -149,6 +149,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
 - Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
+- Was sagt ein Ackerbesteller bei gutem Wetter? Das Land-wird.
 - Was sagt ein Pirat im Pferdestall? A, Heu.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
@@ -207,7 +208,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der sich für Umfragen interessiert? Einen Pollmops.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
-- Wie nennt man einen Landwird mit Studium? Einen Ackerdemiker.
+- Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
