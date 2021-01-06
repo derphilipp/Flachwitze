@@ -179,6 +179,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt ein Spanier ohne Auto? Carlos
+- Wie nennt man das Küchengerät isst dir heimlich die Schokolade weg? Die Spülnaschine.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla
@@ -226,4 +227,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Welches Küchengerät isst dir heimlich die Schokolade weg? Die Spülnaschine.
