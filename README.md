@@ -213,6 +213,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
+- Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
