@@ -12,11 +12,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
+- Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
 - Fliegt ein Kuckucks übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
+- Geht eine schwangere Frau zum Bäcker und sagt: „Ich bekomme ein Brot“
 - Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht.
 - Hüpft ein Rudel Gurken durch den Wald. Was ist falsch? Gurken sind keine Rudeltiere.
+- Ich brauche eine Krankschreibung? Was fehlt ihnen denn? Eine Krankschreibung.
 - Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
 - Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen
 - Ich habe bei einem Brötchen angerufen, aber: War belegt
@@ -25,10 +28,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich habe beim Metzger angerufen, aber kein Schwein ging ran.
 - Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen
+- Ich habe einem Hipster ans Schienbein getreten. Jetzt hopster.
 - Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
+- Ich habe meiner Frau zu Weihnachten einen Nerz geschenkt und jetzt weigert sie sich, das Tier zu füttern.
+- Ich wollte einen Witz über die Deutsche Bahn machen, aber ich wusste nicht ob der ankommt.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
+- In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
 - Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
@@ -38,6 +45,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
 - Sagt die eine Kerze zur anderen: Du, ist Wasser eigentlich gefährlich? - Sagt die andere: Davon kannst Du ausgehen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
+- Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
 - Stiftung Wartentest hat Besteck getestet. Das Messer hat am besten abgeschnitten
 - Tonic ohne Alkohol ist übrigens ginlos.
@@ -51,6 +59,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen
+- Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
@@ -70,6 +79,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
 - Was isst Familie Biber zu abend? Tischstäbchen.
+- Was isst eine sado-maso Frau vor Weihnachten? Domina-Steine.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
@@ -77,11 +87,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
+- Was ist die größte Anerkennung unter Aquarellisten: "Verläuft bei Dir!"
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+- Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
@@ -135,11 +147,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
 - Was machen PiratInnen, wenn Sie nicht mehr weiterwissen? Einen Arrrrrrrbeitskreis.
 - Was machen Tiere in der Disko? Sie diskotieren.
+- Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe. 
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht eine Bombe im Bordell? — Puff.
+- Was macht eine Bombe im Treppenhaus? hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
@@ -166,6 +180,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
+- Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welches Getränk trinken Firmenchefs? — Leitungswasser
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
@@ -180,6 +195,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt ein Spanier ohne Auto? Carlos
+- Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
@@ -188,8 +204,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein weißes Mammut? Hell-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
+- Wie nennt man eine chinesische Arschwackeltanztruppe? Han-twerker.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
+- Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
+- Wie nennt man einen dünnen Weinachtsmann? Nikolauch.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
 - Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
 - Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
@@ -209,12 +228,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der sich für Umfragen interessiert? Einen Pollmops.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
+- Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
+- Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
@@ -222,6 +243,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Womit backen Schlümpfe? – Garga-Mehl.
 - Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
