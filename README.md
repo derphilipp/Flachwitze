@@ -147,7 +147,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
 - Was machen PiratInnen, wenn Sie nicht mehr weiterwissen? Einen Arrrrrrrbeitskreis.
 - Was machen Tiere in der Disko? Sie diskotieren.
-- Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe. 
+- Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
