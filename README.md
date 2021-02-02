@@ -235,6 +235,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen dünnen Weinachtsmann? Nikolauch.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
+- Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
