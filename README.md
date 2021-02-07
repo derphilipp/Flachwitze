@@ -51,7 +51,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Tage an denen man plant, Bananen zu essen, nennt man Bananenplantage.
 - Tonic ohne Alkohol ist übrigens ginlos.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
-- Treffen sich zwei Sandkörner in der Wüste. Sagt das Eine zum Anderen: "Ich glaub wir werden verfolgt." 
+- Treffen sich zwei Sandkörner in der Wüste. Sagt das Eine zum Anderen: "Ich glaub wir werden verfolgt."
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben"
 - Wann gehen U-Boote unter? Am Tag der offenen Tűr.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
