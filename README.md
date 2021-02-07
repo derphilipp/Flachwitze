@@ -136,12 +136,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
+- Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
 - Was ist weiß und stört beim Essen? Eine Lawine
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
+- Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
 - Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
@@ -210,6 +212,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
+- Wie nennt man einen extrem dünnen Frosch? Magerquak.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
 - Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
 - Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
