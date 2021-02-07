@@ -88,6 +88,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
+- Was ist das Gegenteil von Japan? Neinpan.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
