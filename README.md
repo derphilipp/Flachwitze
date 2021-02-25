@@ -257,7 +257,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Das Oberteil von Meerjungfrauen nennt man auch Algebra.
-
-
-
+- Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
