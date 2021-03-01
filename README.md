@@ -85,6 +85,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
+- Was ist braun, lecker und gesund? Schogolade.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
@@ -111,6 +112,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
+- Was ist grün, blind und kann singen? Kiwi Wonder.
 - Was ist grün und macht die Toilette sauber? Ein Klokodil.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
 - Was ist grün und sitzt auf dem Klo? Der Kacktus.
@@ -124,12 +126,15 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
+- Was ist lässig und hat einen Euter? Eine Kuhl.
+- Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist orange und kann nicht stillsitzen? Eine Zappelsine
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist rot und wiehert? Eine Pferdbeere.
+- Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
@@ -137,6 +142,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
+- Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
@@ -144,6 +150,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
 - Was ist weiß und stört beim Essen? Eine Lawine
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
+- Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
@@ -177,6 +184,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
+- Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
