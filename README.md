@@ -198,6 +198,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
+- Was hat 8 Arme und fliegt durchs Weltall? Eine Krakete.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
