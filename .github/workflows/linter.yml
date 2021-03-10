@@ -21,3 +21,10 @@ jobs:
           VALIDATE_ALL_CODEBASE: true
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check alphabetical order in file
+        run: |
+          tail +8 README.md > unsorted
+          tail +8 README.md | sort > sorted
+          diff sorted unsorted
+
+
