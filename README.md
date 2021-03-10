@@ -75,9 +75,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
+- Was hat acht Arme und fliegt durchs Weltall? Eine Krakete.
 - Was hat acht Beine und schummelt? Eine Mogelspinne.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
 - Was hat einen Beutel und schießt? Ein Penguruh.
+- Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
@@ -85,6 +87,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
+- Was ist braun, lecker und gesund? Schogolade.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
@@ -92,6 +95,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
+- Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
@@ -103,6 +107,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und läuft den Baum hoch? Ein Posthörnchen
 - Was ist gelb und schießt? Eine Banone.
 - Was ist gelb und schwimmt übern See? Eine Schwanane.
+- Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
@@ -116,6 +121,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
+- Was ist grün, blind und kann singen? Kiwi Wonder.
 - Was ist grün, hängt an der Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
@@ -125,11 +131,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
+- Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist orange und kann nicht stillsitzen? Eine Zappelsine
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist rot und wiehert? Eine Pferdbeere.
+- Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
@@ -144,6 +152,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
 - Was ist weiß und stört beim Essen? Eine Lawine
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
+- Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
@@ -192,6 +201,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
+- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde
@@ -201,6 +211,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Spanier ohne Auto? Carlos
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
+- Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
