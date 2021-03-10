@@ -80,6 +80,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hat Haare und wird gebraten? Bartkartoffeln.
+- Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
@@ -96,6 +97,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
 - Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
+- Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
@@ -108,6 +110,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und schießt? Eine Banone.
 - Was ist gelb und schwimmt übern See? Eine Schwanane.
 - Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
+- Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
@@ -116,12 +119,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
-- Was ist grün, blind und kann singen? Kiwi Wonder.
 - Was ist grün und macht die Toilette sauber? Ein Klokodil.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
 - Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
+- Was ist grün, blind und kann singen? Kiwi Wonder.
 - Was ist grün, blind und kann singen? Kiwi Wonder.
 - Was ist grün, hängt an der Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
@@ -131,8 +134,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
-- Was ist lässig und hat einen Euter? Eine Kuhl.
-- Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist orange und kann nicht stillsitzen? Eine Zappelsine
@@ -148,7 +149,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
-- Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
@@ -156,7 +156,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
 - Was ist weiß und stört beim Essen? Eine Lawine
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
-- Was hat Haare und wird gebraten? Bartkartoffeln.
+- Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
@@ -191,7 +191,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
-- Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
@@ -205,8 +204,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
-- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
+- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
@@ -218,6 +217,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Spanier ohne Auto? Carlos
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
+- Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
@@ -275,4 +275,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
