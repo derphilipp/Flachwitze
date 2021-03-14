@@ -80,7 +80,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hat Haare und wird gebraten? Bartkartoffeln.
-- Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
