@@ -52,7 +52,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Tonic ohne Alkohol ist übrigens ginlos.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben"
-- Wann gehen U-Boote unter? Am Tag der offenen Tűr.
+- Wann gehen U-Boote unter? Am Tag der offenen Tür.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
@@ -122,7 +122,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
 - Was ist grün, blind und kann singen? Kiwi Wonder.
-- Was ist grün, blind und kann singen? Kiwi Wonder.
 - Was ist grün, hängt an der Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
@@ -135,7 +134,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist orange und kann nicht stillsitzen? Eine Zappelsine
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
-- Was ist rot und schlecht fűr die Zähne? Ein Ziegelstein
+- Was ist rot und schlecht für die Zähne? Ein Ziegelstein
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist rot und wiehert? Eine Pferdbeere.
 - Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
