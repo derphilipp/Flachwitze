@@ -13,11 +13,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
-- Fliegt ein Kuckucks übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
+- Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg
 - Geht eine schwangere Frau zum Bäcker und sagt: "Ich bekomme ein Brot"
-- Huch, meine Uhr ist runtergefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht.
+- Huch, meine Uhr ist runter gefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht.
 - Hüpft ein Rudel Gurken durch den Wald. Was ist falsch? Gurken sind keine Rudeltiere.
 - Ich brauche eine Krankschreibung? Was fehlt ihnen denn? Eine Krankschreibung.
 - Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen
@@ -34,7 +34,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich wollte einen Witz über die Deutsche Bahn machen, aber ich wusste nicht ob der ankommt.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
-- In St.Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
+- In St. Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
@@ -47,7 +47,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
 - Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
-- Stiftung Wartentest hat Besteck getestet. Das Messer hat am besten abgeschnitten
+- Stiftung Warentest hat Besteck getestet. Das Messer hat am besten abgeschnitten
 - Tage an denen man plant, Bananen zu essen, nennt man Bananenplantage.
 - Tonic ohne Alkohol ist übrigens ginlos.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
@@ -106,7 +106,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
 - Was ist gelb und läuft den Baum hoch? Ein Posthörnchen
 - Was ist gelb und schießt? Eine Banone.
-- Was ist gelb und schwimmt übern See? Eine Schwanane.
+- Was ist gelb und schwimmt über'n See? Eine Schwanane.
 - Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
@@ -126,13 +126,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke
 - Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
 - Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
-- Was ist heiss und flauschig? Eine Fellkartoffel.
+- Was ist heiß und flauschig? Eine Fellkartoffel.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
-- Was ist orange und kann nicht stillsitzen? Eine Zappelsine
+- Was ist orange und kann nicht still sitzen? Eine Zappelsine
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein
 - Was ist rot und steht im Wald? Ein Kirsch.
@@ -205,7 +205,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde
 - Wer wohnt im Dschungel und schummelt? Mogli
-- Wie begrüssen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
+- Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt ein Spanier ohne Auto? Carlos
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
@@ -222,7 +222,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
-- Wie nennt man einen dünnen Weinachtsmann? Nikolauch.
+- Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
 - Wie nennt man einen extrem dünnen Frosch? Magerquak.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner
 - Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
@@ -231,7 +231,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der doofe Kommentare schreibt? Einen Trollmops.
 - Wie nennt man einen Hering, der gerne Atombombentests macht? Einen Atollmops.
 - Wie nennt man einen Hering, der gerne Befehle befolgt? Einen Jawollmops.
-- Wie nennt man einen Hering, der gerne Fussball mag? Einen (Mehmet) Schollmops.
+- Wie nennt man einen Hering, der gerne Fußball mag? Einen (Mehmet) Schollmops.
 - Wie nennt man einen Hering, der gerne strickt? Einen Wollmops.
 - Wie nennt man einen Hering, der immer alles aufschreibt? Einen Protokollmops.
 - Wie nennt man einen Hering, der immer alles machen muss? Einen Sollmops.
