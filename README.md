@@ -190,7 +190,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
-- Was wird oft übersehen? Ein Gartenzaun
+- Was wird oft übersehen? Ein Gartenzaun.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
