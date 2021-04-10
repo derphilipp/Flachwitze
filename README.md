@@ -27,6 +27,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich habe bei einem Brötchen angerufen, aber: War belegt.
 - Ich habe bei nem DJ angerufen: Der hat einfach aufgelegt.
 - Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
+- Ich habe beim Arzt angerufen: Ich wurde aber nicht verbunden.
 - Ich habe beim Bäcker angerufen, da ging aber nur die Mehlbox ran.
 - Ich habe beim Metzger angerufen, aber kein Schwein ging ran.
 - Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
@@ -49,6 +50,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
 - Sagt der Pessimist: "Schlimmer geht nicht!" - Sagt der Optimist: "Doch!"
+- Sagt der Walfisch zum Tuhnfisch: "Was wollen wir tun, Fisch?" Sagt der Thunfisch: "Du hast die Wahl, Fisch!"
 - Sagt die eine Kerze zur anderen: Du, ist Wasser eigentlich gefährlich? - Sagt die andere: Davon kannst Du ausgehen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
@@ -70,6 +72,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
+- Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
