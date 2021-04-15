@@ -85,6 +85,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Piraten am liebsten? — Kapern.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
+- Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
 - Was hat acht Arme und fliegt durchs Weltall? Eine Krakete.
