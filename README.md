@@ -295,3 +295,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- Was ist rot und fliegt durch die Luft? Die Binde Maya!
+- Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter!
+- Was gräbt und ist aus der Puste? Eine Schnaufel!
