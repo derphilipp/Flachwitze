@@ -244,7 +244,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man ein weißes Mammut? Hell-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
-- Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
