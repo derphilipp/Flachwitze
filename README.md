@@ -77,6 +77,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
+- Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
@@ -88,6 +89,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
+- Was gräbt und ist aus der Puste? Eine Schnaufel.
 - Was hat acht Arme und fliegt durchs Weltall? Eine Krakete.
 - Was hat acht Beine und schummelt? Eine Mogelspinne.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
@@ -244,6 +246,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
+- Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
