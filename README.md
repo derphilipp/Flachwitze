@@ -7,15 +7,20 @@ Gerne weitere als Pull-Request hinzufügen.
 
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
+- Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
 - Brennholzverleih.
+- Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
+- Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+- „Du hast aber schon mal einen Schornstein gemauert, oder?“ „Nein, das ist ein Versuchskaminchen.“
 - Egal wie gut Du fährst, Züge fahren Güter.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
 - Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
+- Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
 - Gehen zwei Zahnstocher durch den Wald. Kommt ein Igel vorbei. Sagt der eine Zahnstocher: "Ich wusste gar nicht, dass hier ein Bus fährt."
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg.
 - Geht eine schwangere Frau zum Bäcker und sagt: "Ich bekomme ein Brot."
@@ -44,6 +49,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
 - Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
+- Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
 - Mein Arzt hat eine südamerikanische Augenkrankheit bei mir diagnostiziert - ich "Chile".
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
@@ -55,8 +61,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
+- Schicke Unterwäsche! - Wohin?
+- Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
 - Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
+- Stelle dir zwei bayerisch getrachtete Personen vor, die die Daumen nach oben recken. In der anderen Hand Bier und Brezn. Was ist das? Confirmation Bayers
 - Stiftung Warentest hat Besteck getestet. Das Messer hat am besten abgeschnitten.
 - Tage an denen man plant, Bananen zu essen, nennt man Bananenplantage.
 - Tonic ohne Alkohol ist übrigens ginlos.
@@ -66,9 +75,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
+- Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
+- Warum muss die Spinne grillen? Sie ist ein Weberknecht.
+- Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
+- Warum klaut Robin Hood Deo? Um es unter den Armen zu verteilen!
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
@@ -108,6 +121,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Gegenteil von Japan? Neinpan.
+- (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
+- Was ist das agressivste Milchprodukt? Schlagsahne.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
@@ -181,6 +196,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
+- Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
@@ -222,6 +238,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
+- Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
@@ -231,6 +248,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
+- Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
@@ -271,11 +289,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
+- Wie nennt man einen hungrigen risikobereiten Wellensittich? Trill-Seeker
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
+- Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
@@ -285,12 +305,15 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
 - Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
+- Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
+- Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
+- Wollte Socken bei H&M kaufen. Oma strickt dagegen.
 - Womit backen Schlümpfe? Mit Garga-Mehl.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
