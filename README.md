@@ -232,8 +232,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
-- Welches Getränk trinken Firmenchefs? — Leitungswasser.
-- Welches ist die lustigste Automarke? - Scherzedes.
+- Welches Gemüse serviert sich selbst? Die Obergine.
+- Welches Getränk trinken Firmenchefs? Leitungswasser.
+- Welches ist die lustigste Automarke? Scherzedes.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
