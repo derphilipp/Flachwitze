@@ -237,6 +237,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches ist die lustigste Automarke? Scherzedes.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
+- Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
+- Welches Tier hält immer Maß? Der Ellensittich.
+- Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
+- Welches Tier klebt gerne zwischen den Zähnen? Der Karamellensittich.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
