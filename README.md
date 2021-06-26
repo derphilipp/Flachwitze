@@ -6,6 +6,7 @@ Gerne weitere als Pull-Request hinzufügen.
 ## Die Flachwitze
 
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
+- (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
 - Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
@@ -13,7 +14,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
-- „Du hast aber schon mal einen Schornstein gemauert, oder?“ „Nein, das ist ein Versuchskaminchen.“
 - Egal wie gut Du fährst, Züge fahren Güter.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
@@ -45,11 +45,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - In St. Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
+- Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
 - Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
-- Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
 - Mein Arzt hat eine südamerikanische Augenkrankheit bei mir diagnostiziert - ich "Chile".
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
@@ -77,7 +77,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
 - Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
-- Warum muss die Spinne grillen? Sie ist ein Weberknecht.
 - Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
@@ -85,6 +84,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
+- Warum muss die Spinne grillen? Sie ist ein Weberknecht.
 - Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
@@ -120,9 +120,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
-- Was ist das Gegenteil von Japan? Neinpan.
-- (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Was ist das agressivste Milchprodukt? Schlagsahne.
+- Was ist das Gegenteil von Japan? Neinpan.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
@@ -172,13 +171,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist rot und wiehert? Eine Pferdbeere.
 - Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand.
+- Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
 - Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
-- Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
@@ -240,9 +239,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
 - Welches Tier hält immer Maß? Der Ellensittich.
-- Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
 - Welches Tier klebt gerne zwischen den Zähnen? Der Karamellensittich.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
+- Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
@@ -301,8 +300,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
-- Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
+- Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
@@ -312,12 +311,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
+- Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
-- Wo baden Eisbären am liebsten? Im Nordpool.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
@@ -328,3 +327,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- „Du hast aber schon mal einen Schornstein gemauert, oder?“ „Nein, das ist ein Versuchskaminchen.“
