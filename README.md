@@ -47,6 +47,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
 - In welcher Maßeinheit messen Hunde ihre Temperatur? In Belgrad.
 - Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
+- Kann man mit einem Tampon schreiben? In der Regel schon.
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
