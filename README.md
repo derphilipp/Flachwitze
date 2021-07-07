@@ -45,6 +45,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - In St. Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
+- In welcher Maßeinheit messen Hunde ihre Temperatur? In Belgrad.
 - Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
@@ -265,6 +266,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
 - Wie nennt man ein verschwundenes Rindvieh? - Oxford.
 - Wie nennt man ein weißes Mammut? Hell-mut!
+- Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
