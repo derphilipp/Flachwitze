@@ -326,6 +326,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher.
+- Womit verzieren Rinder ihren Kuchen? Mit Kuhvertüre.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
