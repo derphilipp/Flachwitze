@@ -179,6 +179,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
+- Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
@@ -260,6 +261,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
+- Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
@@ -270,6 +272,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
+- Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
@@ -319,6 +322,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Wo baden Eisbären am liebsten? Im Nordpool.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
