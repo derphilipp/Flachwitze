@@ -124,6 +124,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist das agressivste Milchprodukt? Schlagsahne.
 - Was ist das Gegenteil von Japan? Neinpan.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
+- Was ist der schlauste Ast? Ein Gymniasast.
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
 - Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
@@ -202,6 +203,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
+- Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
@@ -255,7 +257,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
+- Wie heißt der Bruder von Elvis? Zwölfis.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
+- Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
