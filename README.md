@@ -15,6 +15,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Egal wie gut Du fährst, Züge fahren Güter.
+- Egal wie viel CD's du hast. Karl hat Mercedes.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
@@ -255,6 +256,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
+- Wie heißt der Erfinder der Shorts? Kurt C. Hose.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
