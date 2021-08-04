@@ -5,6 +5,7 @@ Gerne weitere als Pull-Request hinzufügen.
 
 ## Die Flachwitze
 
+- "Du hast aber schon mal einen Schornstein gemauert, oder?" "Nein, das ist ein Versuchskaminchen."
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
@@ -181,7 +182,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
-- Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
@@ -264,6 +264,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
+- Wie nennt man befreundete Gummibärchen? Haribros.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
@@ -272,14 +273,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
+- Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man ein verschwundenes Rindvieh? - Oxford.
 - Wie nennt man ein weißes Mammut? Hell-mut!
-- Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
-- Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
+- Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
@@ -328,7 +329,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
-- Wo baden Eisbären am liebsten? Im Nordpool.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
@@ -340,5 +340,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- „Du hast aber schon mal einen Schornstein gemauert, oder?“ „Nein, das ist ein Versuchskaminchen.“
-- Wie nennt man befreundete Gummibärchen? Haribros
