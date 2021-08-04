@@ -341,3 +341,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
 - „Du hast aber schon mal einen Schornstein gemauert, oder?“ „Nein, das ist ein Versuchskaminchen.“
+- Wie nennt man befreundete Gummibärchen? Haribros
