@@ -72,6 +72,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Stiftung Warentest hat Besteck getestet. Das Messer hat am besten abgeschnitten.
 - Tage an denen man plant, Bananen zu essen, nennt man Bananenplantage.
 - Tonic ohne Alkohol ist übrigens ginlos.
+- Treffen sich zwei Jäger: Beide Tot.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben."
 - Wann gehen U-Boote unter? Am Tag der offenen Tür.
