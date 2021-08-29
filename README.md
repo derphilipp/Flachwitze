@@ -341,3 +341,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
+- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
+- Wo machen Kühe Urlaub? In Kuhba
+- Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
+- Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
+- Wie heißt der chinesische Kulturminister? Bil Dung.
+- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
+- Was macht ein Metzger im Wald? Schnitzeljagd.
+- Wie begrüßen sich plastische Chirurgen? Was machst du denn heute für ein Gesicht.
