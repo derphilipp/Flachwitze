@@ -64,6 +64,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
+- Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
@@ -98,6 +99,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
+- Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
 - Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
@@ -136,6 +138,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
@@ -188,6 +191,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
+- Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
 - Was ist weiß und stört beim Essen? Eine Lawine.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
@@ -204,6 +208,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
+- Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht eine Bombe im Bordell? — Puff.
@@ -256,6 +261,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
 - Wer wohnt im Dschungel und schummelt? Mogli.
+- Wie begrüßen sich plastische Chirurgen? Was machst du denn heute für ein Gesicht.
 - Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
@@ -266,6 +272,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man befreundete Gummibärchen? Haribros.
+- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man den Flur eines Iglus? Eisdiele!
@@ -341,12 +348,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
-- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
-- Wo machen Kühe Urlaub? In Kuhba
-- Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
-- Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
-- Wie heißt der chinesische Kulturminister? Bil Dung.
-- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
-- Was macht ein Metzger im Wald? Schnitzeljagd.
-- Wie begrüßen sich plastische Chirurgen? Was machst du denn heute für ein Gesicht.
