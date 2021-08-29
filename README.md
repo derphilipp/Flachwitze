@@ -64,6 +64,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
+- Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
@@ -98,6 +99,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
+- Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
 - Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
@@ -113,6 +115,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
+- Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
@@ -188,6 +191,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
+- Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
 - Was ist weiß und stört beim Essen? Eine Lawine.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
@@ -266,8 +270,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man befreundete Gummibärchen? Haribros.
+- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
+- Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
@@ -311,6 +317,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
+- Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
@@ -341,7 +348,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
-- Wie nennt man einen veganen Vampir? Graf Rucola!
-- Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
-- Was ist rot und liegt in der Wüste? Eine Trockenperiode!
