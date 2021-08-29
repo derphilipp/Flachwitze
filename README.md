@@ -210,9 +210,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein Metzger im Wald? Schnitzeljagd.
-- Was macht ein Metzger im Wald? Schnitzeljagd.
-- Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
-- Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
@@ -352,7 +349,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-<<<<<<< HEAD
-=======
->>>>>>> jklippel-some-more
-||||||| dcf814f
