@@ -346,3 +346,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo machen Kühe Urlaub? In Kuhba
 - Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
+- Wie heißt der chinesische Kulturminister? Bil Dung.
+- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
+- Was macht ein Metzger im Wald? Schnitzeljagd.
+- Wie begrüßen sich plastische Chirurgen? Was machst du denn heute für ein Gesicht.
