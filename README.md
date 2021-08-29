@@ -139,6 +139,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
@@ -208,7 +209,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
-- Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
+- Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
@@ -260,7 +261,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
 - Wer wohnt im Dschungel und schummelt? Mogli.
-- Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
+- Wie begrüßen sich Schönheitschirurgen? Na, was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
