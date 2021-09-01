@@ -277,6 +277,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
+- Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
