@@ -292,6 +292,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
+- Wie nennt man einen Deutschen im Weltraum? Allmann.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
 - Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
 - Wie nennt man einen extrem dünnen Frosch? Magerquak.
