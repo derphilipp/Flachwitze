@@ -98,6 +98,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
+- Was bringt uns in 30 Jahren mit zunehmendem Klimawandel Pakete? Postboote.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
 - Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
 - Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
@@ -105,6 +106,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Piraten am liebsten? — Kapern.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
+- Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
@@ -121,6 +123,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
+- Was ist braun, gesund und beleidigt? Schmollkornbrot.
 - Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist braun, lecker und gesund? Schogolade.
@@ -175,10 +178,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
+- Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
+- Was ist rot und steht an der Straße? Eine Hagenutte.
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist rot und wiehert? Eine Pferdbeere.
 - Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
+- Was ist rothaarig, gesanglich begabt und kann nicht gut malen? Ed Schmieren.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand.
 - Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
@@ -187,6 +193,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
+- Was ist unzufrieden, redet undeutlich und lebt im Wasser? Eine Mies-Nuschel.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
@@ -217,6 +224,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
+- Was redet undeutlich und lebt im Wasser? Eine Nuschel.
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
 - Was sagt der Fuchs im Hühnerstall? Raus aus den Federn!
 - Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
@@ -235,6 +243,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
+- Was steht auf der Weide und ist müde? Ein Schlaf.
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
 - Was wird oft übersehen? Ein Gartenzaun.
@@ -247,6 +256,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
 - Welches ist die lustigste Automarke? Scherzedes.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
+- Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
 - Welches Tier hält immer Maß? Der Ellensittich.
@@ -265,6 +275,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
+- Wie heißt der einsamste Franzose? Alain.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt ein Keks an der Börse? Spekulatius.
@@ -289,6 +300,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
+- Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
 - Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
