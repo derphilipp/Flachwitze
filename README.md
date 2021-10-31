@@ -5,6 +5,7 @@ Gerne weitere als Pull-Request hinzufügen.
 
 ## Die Flachwitze
 
+- "Du hast aber schon mal einen Schornstein gemauert, oder?" "Nein, das ist ein Versuchskaminchen."
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
@@ -63,6 +64,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
+- Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
@@ -71,6 +73,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Stiftung Warentest hat Besteck getestet. Das Messer hat am besten abgeschnitten.
 - Tage an denen man plant, Bananen zu essen, nennt man Bananenplantage.
 - Tonic ohne Alkohol ist übrigens ginlos.
+- Treffen sich zwei Jäger: Beide Tot.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben."
 - Wann gehen U-Boote unter? Am Tag der offenen Tür.
@@ -95,12 +98,15 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
+- Was bringt uns in 30 Jahren mit zunehmendem Klimawandel Pakete? Postboote.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
+- Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
 - Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Piraten am liebsten? — Kapern.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
+- Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
@@ -111,11 +117,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
+- Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
+- Was ist braun, gesund und beleidigt? Schmollkornbrot.
 - Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist braun, lecker und gesund? Schogolade.
@@ -134,6 +142,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
@@ -169,10 +178,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
+- Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
+- Was ist rot und steht an der Straße? Eine Hagenutte.
 - Was ist rot und steht im Wald? Ein Kirsch.
 - Was ist rot und wiehert? Eine Pferdbeere.
 - Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
+- Was ist rothaarig, gesanglich begabt und kann nicht gut malen? Ed Schmieren.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand.
 - Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
@@ -181,12 +193,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
-- Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
+- Was ist unzufrieden, redet undeutlich und lebt im Wasser? Eine Mies-Nuschel.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
+- Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
 - Was ist weiß und stört beim Essen? Eine Lawine.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
@@ -203,7 +216,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
-- Was macht ein schwuler Wurm im Salat? - Er schmeißt die Schnecken raus.
+- Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
@@ -211,6 +224,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
+- Was redet undeutlich und lebt im Wasser? Eine Nuschel.
 - Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
 - Was sagt der Fuchs im Hühnerstall? Raus aus den Federn!
 - Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
@@ -229,6 +243,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
+- Was steht auf der Weide und ist müde? Ein Schlaf.
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
 - Was wird oft übersehen? Ein Gartenzaun.
@@ -241,6 +256,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
 - Welches ist die lustigste Automarke? Scherzedes.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
+- Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
 - Welches Tier hält immer Maß? Der Ellensittich.
@@ -255,33 +271,40 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
 - Wer wohnt im Dschungel und schummelt? Mogli.
-- Wie begrüßen sich Schönheitschirurgen? Na was machst Du denn für ein Gesicht?
+- Wie begrüßen sich Schönheitschirurgen? Na, was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
+- Wie heißt der einsamste Franzose? Alain.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
+- Wie nennt man befreundete Gummibärchen? Haribros.
+- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
+- Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
+- Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
+- Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man ein verschwundenes Rindvieh? - Oxford.
 - Wie nennt man ein weißes Mammut? Hell-mut!
-- Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
-- Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
+- Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
+- Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
+- Wie nennt man einen Deutschen im Weltraum? Allmann.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
 - Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
 - Wie nennt man einen extrem dünnen Frosch? Magerquak.
@@ -309,6 +332,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
+- Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
@@ -328,7 +352,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
-- Wo baden Eisbären am liebsten? Im Nordpool.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
@@ -340,4 +363,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- „Du hast aber schon mal einen Schornstein gemauert, oder?“ „Nein, das ist ein Versuchskaminchen.“
