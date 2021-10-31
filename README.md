@@ -174,6 +174,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
+- Was ist niedlich, lebt in Australien und stinkt? Der Kloala.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
@@ -285,6 +286,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
+- Wie nennt man das Foto eines Waisenkindes? Familienbild.
 - Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
@@ -333,6 +335,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen veganen Vampir? Graf Rucola!
+- Wie nennt man einen unfreundlichen Milliardär? Eurogant.
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
@@ -350,6 +353,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
+- Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
