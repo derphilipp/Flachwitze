@@ -291,6 +291,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
 - Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
+- Wie nennt man die Zeitform wenn der Bus pünktlich war? Buskamperfekt!
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
@@ -299,7 +300,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man ein weißes Mammut? Hell-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
-- Wie nennt man die Zeitform wenn der Bus pünktlich war? Buskamperfekt!
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
