@@ -252,6 +252,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
+- Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
 - Welches ist die lustigste Automarke? Scherzedes.
