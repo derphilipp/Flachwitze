@@ -365,3 +365,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- Wie nennt man eine Babywindel auf arabisch? Güllehülle.
+- Egal wie "dicht" du bist, Goethe war Dichter!
+- Egal wie du kochst, Karl Marx.
+- Was lebt im Meer und spricht undeutlich? Die Nuschel.
