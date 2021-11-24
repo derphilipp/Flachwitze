@@ -17,6 +17,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Egal wie gut Du fährst, Züge fahren Güter.
 - Egal wie viel CD's du hast. Karl hat Mercedes.
+- Eier sind gar nicht so ungefährlich. Eines hat immerhin den Sheriff erschossen!
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
@@ -117,11 +118,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
-- Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
+- Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
-- Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
+- Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist braun, gesund und beleidigt? Schmollkornbrot.
 - Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
@@ -154,8 +155,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
-- Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus.
+- Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
@@ -174,8 +175,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
-- Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
+- Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
@@ -302,9 +303,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
-- Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
 - Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
+- Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
 - Wie nennt man einen Deutschen im Weltraum? Allmann.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
@@ -334,8 +335,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
-- Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
+- Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man heute einen Hofnarr? Untertainer.
@@ -365,6 +366,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- (fränksicher Dialekt) Warum haben die Schlümpfe kein Brot? Weil sie Gargamel haben.
-- Eier sind gar nicht so ungefährlich. Eines hat immerhin den Sheriff erschossen!
-- Warum steht ein Pilz im Wald? Weil die Tannenzapfen.
