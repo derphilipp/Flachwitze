@@ -178,7 +178,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
-- Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist niedlich, lebt in Australien und stinkt? Der Kloala.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
@@ -335,7 +334,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
-- Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
 - Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
@@ -345,7 +343,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
 - Wie nennt man einen unfreundlichen Milliardär? Eurogant.
-- Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
