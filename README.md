@@ -15,6 +15,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+- Egal wie "dicht" du bist, Goethe war Dichter.
+- Egal wie du kochst, Karl Marx.
 - Egal wie gut Du fährst, Züge fahren Güter.
 - Egal wie viel CD's du hast. Karl hat Mercedes.
 - Eier sind gar nicht so ungefährlich. Eines hat immerhin den Sheriff erschossen!
@@ -206,6 +208,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
+- Was lebt im Meer und spricht undeutlich? Die Nuschel.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
 - Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
 - Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel.
@@ -287,7 +290,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
 - Wie nennt man befreundete Gummibärchen? Haribros.
-- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
 - Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
@@ -366,7 +368,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Wie nennt man eine Babywindel auf arabisch? Güllehülle.
-- Egal wie "dicht" du bist, Goethe war Dichter!
-- Egal wie du kochst, Karl Marx.
-- Was lebt im Meer und spricht undeutlich? Die Nuschel.
