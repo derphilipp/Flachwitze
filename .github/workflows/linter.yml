@@ -17,9 +17,9 @@ jobs:
 
       - name: Check alphabetical order in file
         run: |
-          tail +8 README.md > unsorted
-          tail +8 README.md | sort -f > sorted
-          diff sorted unsorted
+          cp README.md README.prev.md
+          make
+          diff README.prev.md README.md
         env:
           LANG: de_DE.UTF-8
           LC_ALL: de_DE.UTF-8
@@ -30,6 +30,3 @@ jobs:
           VALIDATE_ALL_CODEBASE: true
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
