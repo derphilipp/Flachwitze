@@ -365,3 +365,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- (fränksicher Dialekt) Warum haben die Schlümpfe kein Brot? Weil sie Gargamel haben.
+- Eier sind gar nicht so ungefährlich. Eines hat immerhin den Sheriff erschossen!
+- Warum steht ein Pilz im Wald? Weil die Tannenzapfen.
