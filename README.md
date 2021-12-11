@@ -15,6 +15,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+- Die deutsche Sprache ist sehr kompliziert. Wenn man einen einzigen Buchstaben verdreht, ist der Satz uriniert.
 - Egal wie "dicht" du bist, Goethe war Dichter.
 - Egal wie du kochst, Karl Marx.
 - Egal wie gut Du fährst, Züge fahren Güter.
