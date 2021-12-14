@@ -85,6 +85,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
 - Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
+- Warum gibt es im Wald kein Corona? Weil die Bäume 2G haben.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
 - Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
@@ -121,9 +122,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
 - Was hat einen Beutel und schießt? Ein Penguruh.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
+- Was hält warm und auch Ordnung? Der Pullizist
+- Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
 - Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
+- Was ist Ronaldo? Sportugiese.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
@@ -177,7 +181,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist heiß und flauschig? Eine Fellkartoffel.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
+- Was ist klein, rot, rund und voller Magie? Cherry Potter.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
+- Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
 - Was ist niedlich, lebt in Australien und stinkt? Der Kloala.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
@@ -254,10 +260,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was wird oft übersehen? Ein Gartenzaun.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
+- Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
+- Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
@@ -285,12 +293,15 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
 - Wie heißt ein Keks an der Börse? Spekulatius.
+- Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie ist die Handschrift eines Tintenfisches? Krakelig.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
 - Wie nennt man befreundete Gummibärchen? Haribros.
+- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Foto eines Waisenkindes? Familienbild.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
@@ -342,6 +353,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen hungrigen risikobereiten Wellensittich? Trill-Seeker
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
+- Wie nennt man einen schlechtgelaunten T-Rex? Dinosaurier
 - Wie nennt man einen unfreundlichen Milliardär? Eurogant.
 - Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
