@@ -15,8 +15,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+- Die deutsche Sprache ist sehr kompliziert. Wenn man einen einzigen Buchstaben verdreht, ist der Satz uriniert.
+- Egal wie "dicht" du bist, Goethe war Dichter.
+- Egal wie du kochst, Karl Marx.
 - Egal wie gut Du fährst, Züge fahren Güter.
 - Egal wie viel CD's du hast. Karl hat Mercedes.
+- Eier sind gar nicht so ungefährlich. Eines hat immerhin den Sheriff erschossen!
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
@@ -120,6 +124,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
 - Was hält warm und auch Ordnung? Der Pullizist
 - Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
+- Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
@@ -210,6 +215,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
+- Was lebt im Meer und spricht undeutlich? Die Nuschel.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
 - Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
 - Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel.
@@ -258,6 +264,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
+- Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
@@ -303,6 +310,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
 - Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
+- Wie nennt man die Zeitform wenn der Bus pünktlich war? Buskamperfekt!
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
