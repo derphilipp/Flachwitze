@@ -30,10 +30,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Hüpft ein Rudel Gurken durch den Wald. Was ist falsch? Gurken sind keine Rudeltiere.
 - Ich bin so unentschlossen. Als japanischer Krieger wäre ich ein Nunja.
 - Ich brauche eine Krankschreibung? Was fehlt ihnen denn? Eine Krankschreibung.
+- Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
 - Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen.
 - Ich habe bei einem Brötchen angerufen, aber: War belegt.
 - Ich habe bei nem DJ angerufen: Der hat einfach aufgelegt.
-- Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
 - Ich habe beim Arzt angerufen: Ich wurde aber nicht verbunden.
 - Ich habe beim Bäcker angerufen, da ging aber nur die Mehlbox ran.
 - Ich habe beim Metzger angerufen, aber kein Schwein ging ran.
@@ -60,10 +60,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
 - Sagt der Pessimist: "Schlimmer geht nicht!" - Sagt der Optimist: "Doch!"
 - Sagt der Walfisch zum Tuhnfisch: "Was wollen wir tun, Fisch?" Sagt der Thunfisch: "Du hast die Wahl, Fisch!"
+- Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
 - Sagt die eine Kerze zur anderen: Du, ist Wasser eigentlich gefährlich? - Sagt die andere: Davon kannst Du ausgehen.
 - Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
-- Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
 - Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
@@ -81,17 +81,18 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
 - Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
+- Warum gibt es im Wald kein Corona? Weil die Bäume 2G haben.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
-- Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
+- Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum klaut Robin Hood Deo? Um es unter den Armen zu verteilen!
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
 - Warum muss die Spinne grillen? Sie ist ein Weberknecht.
-- Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
+- Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
@@ -111,15 +112,17 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
 - Was gräbt und ist aus der Puste? Eine Schnaufel.
+- Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hat acht Arme und fliegt durchs Weltall? Eine Krakete.
 - Was hat acht Beine und schummelt? Eine Mogelspinne.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
 - Was hat einen Beutel und schießt? Ein Penguruh.
-- Was hat Haare und wird gebraten? Bartkartoffeln.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
+- Was hält warm und auch Ordnung? Der Pullizist
 - Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
-- Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was isst Familie Biber zu abend? Tischstäbchen.
+- Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
+- Was ist Ronaldo? Sportugiese.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
@@ -130,9 +133,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
-- Was ist das agressivste Milchprodukt? Schlagsahne.
 - Was ist das Gegenteil von Japan? Neinpan.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
+- Was ist das agressivste Milchprodukt? Schlagsahne.
 - Was ist der schlauste Ast? Ein Gymniasast.
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
@@ -173,10 +176,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist heiß und flauschig? Eine Fellkartoffel.
 - Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
 - Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
+- Was ist klein, rot, rund und voller Magie? Cherry Potter.
 - Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
-- Was ist niedlich, lebt in Australien und stinkt? Der Kloala.
 - Was ist lila und bedient im Restaurant? Eine Obergine.
 - Was ist lässig und hat einen Euter? Eine Kuhl.
+- Was ist niedlich, lebt in Australien und stinkt? Der Kloala.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
@@ -215,10 +219,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
-- Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
+- Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
@@ -226,11 +230,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
 - Was redet undeutlich und lebt im Wasser? Eine Nuschel.
-- Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
 - Was sagt der Fuchs im Hühnerstall? Raus aus den Federn!
-- Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
 - Was sagt der Holzwurmpapa abends zu seinen Kindern? Husch, husch ab ins Brettchen.
 - Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
+- Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
+- Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
 - Was sagt ein Ackerbesteller bei gutem Wetter? Das Land-wird.
 - Was sagt ein Gen, wenn es ein anderes trifft? - Halogen.
 - Was sagt ein Pirat im Pferdestall? A, Heu.
@@ -243,19 +247,20 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
+- Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht auf der Weide und ist müde? Ein Schlaf.
-- Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
 - Was wird oft übersehen? Ein Gartenzaun.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
+- Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
+- Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
-- Welches ist die lustigste Automarke? Scherzedes.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
@@ -264,9 +269,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Tier klebt gerne zwischen den Zähnen? Der Karamellensittich.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
+- Welches ist die lustigste Automarke? Scherzedes.
+- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
-- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
@@ -276,41 +282,43 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
-- Wie heißt der einsamste Franzose? Alain.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
+- Wie heißt der einsamste Franzose? Alain.
 - Wie heißt ein Keks an der Börse? Spekulatius.
+- Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie ist die Handschrift eines Tintenfisches? Krakelig.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
+- Wie nennt man Fernsehverbot auf Russisch? Njetflix.
+- Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
+- Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
 - Wie nennt man befreundete Gummibärchen? Haribros.
 - Wie nennt man das Fahrrad einer arabisch Kuh? Murad
+- Wie nennt man das Foto eines Waisenkindes? Familienbild.
 - Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
 - Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
-- Wie nennt man das Foto eines Waisenkindes? Familienbild.
 - Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
 - Wie nennt man den Flur eines Iglus? Eisdiele!
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
 - Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
-- Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
+- Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
 - Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man ein verschwundenes Rindvieh? - Oxford.
 - Wie nennt man ein weißes Mammut? Hell-mut!
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
-- Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
 - Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
 - Wie nennt man einen Bär der KungFu beherscht? Grizzly.
 - Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
 - Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
 - Wie nennt man einen Deutschen im Weltraum? Allmann.
-- Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
-- Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
-- Wie nennt man einen extrem dünnen Frosch? Magerquak.
 - Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner.
+- Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
 - Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
 - Wie nennt man einen Hering, der beleidigt ist? Einen Schmollmops.
 - Wie nennt man einen Hering, der die besten Memes postet? Einen Lolmops.
@@ -324,25 +332,26 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der immer nur traurige Musik spielt? Einen Mollmops.
 - Wie nennt man einen Hering, der immer sauer ist? Einen Grollmops.
 - Wie nennt man einen Hering, der immer total begeistert ist? Einen Tollmops.
-- Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
 - Wie nennt man einen Hering, der sehr unkultiviert ist? Einen Prollmops.
 - Wie nennt man einen Hering, der sich für Umfragen interessiert? Einen Pollmops.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
+- Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
+- Wie nennt man einen ausgehungerten Frosch? Magerquark.
+- Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
+- Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
+- Wie nennt man einen extrem dünnen Frosch? Magerquak.
 - Wie nennt man einen hungrigen risikobereiten Wellensittich? Trill-Seeker
 - Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
 - Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
-- Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
-- Wie nennt man einen veganen Vampir? Graf Rucola!
+- Wie nennt man einen schlechtgelaunten T-Rex? Dinosaurier
 - Wie nennt man einen unfreundlichen Milliardär? Eurogant.
+- Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
-- Wie nennt man Fernsehverbot auf Russisch? Njetflix.
-- Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
-- Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
