@@ -153,6 +153,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
+- Was ist gelb/orange und kann immer noch nicht schwimmen? Ein Bagger mit Schwimmflügel.
 - Was ist gelb und läuft den Baum hoch? Ein Posthörnchen.
 - Was ist gelb und schießt? Eine Banone.
 - Was ist gelb und schwimmt über'n See? Eine Schwanane.
