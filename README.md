@@ -124,7 +124,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
 - Was hält warm und auch Ordnung? Der Pullizist
 - Was hört man wenn man sich einen Döner ans Ohr hält?  Das Schweigen der Lämmer.
-- Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
