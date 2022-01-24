@@ -131,7 +131,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
-- Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad. 
+- Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
