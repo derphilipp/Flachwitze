@@ -24,6 +24,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
+- Es gibt eine neue Band: die 1023 Megabyte. Sie hatten noch nie nen Gig.
 - Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
 - Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
@@ -61,7 +62,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
+- Nordischer Gott der gewaltfreien Konfliktlösung? Der Mediathor. (Thanks to @possencurator from twitter)
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
+- Piraten gönnen sich morgens am Liebsten ein Frühstücks-Aye. (Thanks to @budsen from twitter)
 - Sagt der Pessimist: "Schlimmer geht nicht!" - Sagt der Optimist: "Doch!"
 - Sagt der Walfisch zum Tuhnfisch: "Was wollen wir tun, Fisch?" Sagt der Thunfisch: "Du hast die Wahl, Fisch!"
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
@@ -112,6 +115,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was essen Piraten am liebsten? — Kapern.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
+- Was flitzt essbares über die Straßen? Eine Cartoffel.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
@@ -127,6 +131,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was isst Familie Biber zu abend? Tischstäbchen.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
+- Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad. 
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
@@ -140,6 +145,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist das Gegenteil von Japan? Neinpan.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist das agressivste Milchprodukt? Schlagsahne.
+- Was ist das zerstörerischste Tier? Der Schmetterling.
 - Was ist der schlauste Ast? Ein Gymniasast.
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
@@ -147,6 +153,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper.
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
+- Was ist eine Bombe am liebsten? KartoffelPUFFer.
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
 - Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
@@ -163,12 +170,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
 - Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus.
+- Was ist grün und fährt mit der Bahn? Eine Zughini
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
+- Was ist grün und heiß? Eine Brennnessel.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
 - Was ist grün und macht die Toilette sauber? Ein Klokodil.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
-- Was ist grün und sitzt auf dem Klo? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch.
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
 - Was ist grün, blind und kann singen? Kiwi Wonder.
@@ -188,6 +196,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
+- Was ist rot und fährt Fahrrad? Raddieschen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
 - Was ist rot und steht an der Straße? Eine Hagenutte.
 - Was ist rot und steht im Wald? Ein Kirsch.
@@ -199,6 +208,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
 - Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
+- Was ist sehr schlecht für die Zähne? Bombbombs. (Thanks to @theokrates from twitter)
+- Was ist sehr schlecht für die Zähne? Kauwumm. (Thanks to @theokrates from twitter)
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
@@ -243,6 +254,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sagt ein Ackerbesteller bei gutem Wetter? Das Land-wird.
 - Was sagt ein Gen, wenn es ein anderes trifft? - Halogen.
 - Was sagt ein Pirat im Pferdestall? A, Heu.
+- Was schwebt hölzern im All? Der Asttronaut.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten.
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
 - Was sind die teuersten Tomaten? Die Geldautomaten.
@@ -263,6 +275,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
+- Welcher Hund ist immer müde? Der Schläferhund
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
 - Welches Gemüse serviert sich selbst? Die Obergine.
@@ -281,6 +294,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
+- Wer kommt in Hogwarts immer zu spät? Harry Flotter
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
 - Wer wohnt im Dschungel und schummelt? Mogli.
@@ -291,6 +305,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
+- Wie heißt der stinkende Keks? Poreo.
+- Wie heißt die Haushaltshilfe? Magdalena.
+- Wie heißt die musikalischste Leckerei? Popcorn.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
@@ -368,10 +385,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
+- Wo ist Harrison? Fort.
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Wohin gehen Arzt und Ärztin zum feiern? Auf den Medizinball.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
@@ -383,3 +402,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- Zu welchem Fest wird am meisten getrunken? Weinnachten
+- {1} Was ist grau und sitzt auf dem Klo? Ein Kloala.
+- {2} Was ist grün und sitzt daneben? Der Kacktus.
+- {3} Was ist grün und sitzt neben dem Kloala und dem Kacktus? Ein Klokodil
