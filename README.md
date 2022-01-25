@@ -129,6 +129,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hält warm und auch Ordnung? Der Pullizist
 - Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst Familie Biber zu abend? Tischstäbchen.
+- Was isst eine Bombe am liebsten? KartoffelPUFFer.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
 - Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad.
@@ -153,7 +154,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper.
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein nackter Ritter? Ent-rüstet!
-- Was ist eine Bombe am liebsten? KartoffelPUFFer.
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
 - Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
