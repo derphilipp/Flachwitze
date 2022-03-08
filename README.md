@@ -188,6 +188,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
+- Was ist rot und fährt Fahrrad? Raddieschen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
 - Was ist rot und steht an der Straße? Eine Hagenutte.
 - Was ist rot und steht im Wald? Ein Kirsch.
@@ -263,6 +264,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
+- Welcher Hund ist immer müde? Der Schläferhund.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
 - Welches Gemüse serviert sich selbst? Die Obergine.
@@ -372,6 +374,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Wohin gehen Arzt und Ärztin zum feiern? Auf den Medizinball.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
