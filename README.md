@@ -387,8 +387,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
 - Wer hat Darth Vader auf den Kopf gekackt? Der Star wars.
-- Wie nennt man es, wenn man nicht mehr aufhören kann, frittierte Kartoffeln zu essen? - Krokettenreaktion
-- Was mehr ein Kettenraucher im Fitnessstudio? Glimmzüge
+- Wie nennt man es, wenn man nicht mehr aufhören kann, frittierte Kartoffeln zu essen? Krokettenreaktion
+- Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Aus welcher Stadt kommen die Audiokabel? Auxburg
 - Wie nennt man Sex mit Gegenständen? Dingsbums
 - Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
