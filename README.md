@@ -305,6 +305,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
+- Wie nennt man Sex mit Gegenständen? Dingsbums
 - Wie nennt man befreundete Gummibärchen? Haribros.
 - Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Foto eines Waisenkindes? Familienbild.
@@ -366,7 +367,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
-- Wie nennt man Sex mit Gegenständen? Dingsbums
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
