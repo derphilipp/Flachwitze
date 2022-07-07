@@ -364,6 +364,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
+- Wie vollzieht Bibi Blocksberg eine Scheidung? Ex, Ex!
 - Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
