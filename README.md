@@ -223,9 +223,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was machen Tiere in der Disko? Sie diskotieren.
 - Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
-- Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
+- Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
