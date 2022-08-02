@@ -9,6 +9,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
+- Aus welcher Stadt kommen die Audiokabel? Auxburg
 - Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
 - Brennholzverleih.
@@ -227,6 +228,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
+- Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
@@ -282,6 +284,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
+- Wer hat Darth Vader auf den Kopf gekackt? Der Star wars.
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
@@ -297,11 +300,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
+- Wie nennt man Sex mit Gegenständen? Dingsbums
 - Wie nennt man befreundete Gummibärchen? Haribros.
 - Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Foto eines Waisenkindes? Familienbild.
@@ -359,6 +364,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen unfreundlichen Milliardär? Eurogant.
 - Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
+- Wie nennt man es, wenn man nicht mehr aufhören kann, frittierte Kartoffeln zu essen? Krokettenreaktion
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
@@ -388,3 +394,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+
