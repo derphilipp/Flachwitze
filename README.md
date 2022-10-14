@@ -414,6 +414,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo kommt das Essen rein? Dortmund.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
+- Wo parkt ein Admin seine Yacht? Im Bootsektor.
 - Wo wohnen Katzen? Im Mietz-Haus!
 - Wo wohnt der Hamster? In Hamsterdamm.
 - Wo zeltet man besonders schön? In Campten.
