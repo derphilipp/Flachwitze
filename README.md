@@ -71,6 +71,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
+- Sie haben Meeresbiologie studiert? Als Walfach.
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
 - Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
@@ -403,7 +404,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie vollzieht Bibi Blocksberg eine Scheidung? Ex, Ex!
 - Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
 - Wie wars in Venedig? Saarbrücken.
+- Wieso bleibt das Pferd ständig stehen? Vermutlich ein Problem mit der Hüdraulik.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
+- Wieso werden auf diesem Bauernhof Medikamente verkauft? Das ist eine Ratiopharm.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
