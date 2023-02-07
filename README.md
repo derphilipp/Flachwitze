@@ -9,6 +9,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
+- Aus welcher Stadt kommen die Audiokabel? Auxburg
 - Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
 - Brennholzverleih.
@@ -71,6 +72,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
+- Sie haben Meeresbiologie studiert? Als Walfach.
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
 - Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
@@ -101,6 +103,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
+- Was Schule ist nichts für Veganer? Hackwards.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
@@ -239,7 +242,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
+- Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
+- Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
@@ -309,7 +314,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
+- Wer hat Darth Vader auf den Kopf gekackt? Der Star wars.
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
+- Wer ist der fröhlichste Held? Happy Potter.
+- Wer ist der lustigste Bösewicht? Loldemort.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
@@ -327,12 +335,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
 - Wie kann man entspannt Geld anhäufen? Mit einem Spa-Schwein.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
+- Wie nennt man Sex mit Gegenständen? Dingsbums
 - Wie nennt man befreundete Gummibärchen? Haribros.
 - Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Foto eines Waisenkindes? Familienbild.
@@ -390,6 +400,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen unfreundlichen Milliardär? Eurogant.
 - Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
+- Wie nennt man es, wenn man nicht mehr aufhören kann, frittierte Kartoffeln zu essen? Krokettenreaktion
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
@@ -397,8 +408,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
+- Wie vollzieht Bibi Blocksberg eine Scheidung? Ex, Ex!
 - Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
+- Wie wars in Venedig? Saarbrücken.
+- Wieso bleibt das Pferd ständig stehen? Vermutlich ein Problem mit der Hüdraulik.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
+- Wieso werden auf diesem Bauernhof Medikamente verkauft? Das ist eine Ratiopharm.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
@@ -409,9 +424,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo kommt das Essen rein? Dortmund.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
+- Wo parkt ein Admin seine Yacht? Im Bootsektor.
 - Wo wohnen Katzen? Im Mietz-Haus!
 - Wo wohnt der Hamster? In Hamsterdamm.
-- Wo zelltet man besonders schön? In Campten.
+- Wo zeltet man besonders schön? In Campten.
 - Woher bekommt Pampel seine Ideen? Von seiner Muse.
 - Wohin gehen Arzt und Ärztin zum feiern? Auf den Medizinball.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
@@ -427,3 +443,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+- Zu welchem Fest wird am meisten getrunken? Weinnachten.
