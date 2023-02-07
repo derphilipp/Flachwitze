@@ -25,6 +25,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
+- Es gibt eine neue Band: die 1023 Megabyte. Sie hatten noch nie nen Gig.
 - Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
 - Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
@@ -113,6 +114,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Katzen am liebsten? Mausmannskost.
+- Was essen Piraten am liebsten zum Frühstück? Aye.
 - Was essen Piraten am liebsten? — Kapern.
 - Was essen Verliebte am liebsten? Kusskuss.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
@@ -174,7 +176,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
 - Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus.
-- Was ist grün und fährt mit der Bahn? Eine Zughini.
+- Was ist grün und fährt mit der Bahn? Eine Zughini
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
 - Was ist grün und heiß? Eine Brennnessel.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
@@ -275,7 +277,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht auf der Weide und ist müde? Ein Schlaf.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
-- Was trinken Koalas am liebsten? Das CocaKoala.
+- Was trinken Koalas am liebsten? Das Coca-Koala.
 - Was veranstalten Berge gegen den Klimawandel? Einen Krisengipfel.
 - Was will ein Astronaut? All-les.
 - Was wird oft übersehen? Ein Gartenzaun.
@@ -283,6 +285,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
 - Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
+- Welche Schule ist nix für Vegetarier? Hackwards.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welched Tier schreibt sich noch mit einem Buchstaben? Der V.
 - Welcher Buchstabe ist der coolste? Ohmega.
@@ -295,12 +298,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Fortbewegungsmittel hat eine Pandaphobie? Der Bambus.
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
+- Welches Instrument spielen Impfgegner? Querflöte.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
 - Welches Tier hält immer Maß? Der Ellensittich.
 - Welches Tier ist ein Genie in Mathe? Das Plusspferd.
+- Welches Tier kann nicht hören? Die Taube.
 - Welches Tier klebt gerne zwischen den Zähnen? Der Karamellensittich.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
 - Welches Tier schreibt sich mit einem Buchstaben? Die Q.
@@ -322,15 +327,17 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
+- Wie heißt der Lieblingskäse eines Saunagängers? Schwitzer Käse.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
+- Wie heißt der nordische Gott der gewaltfreien Konfliktlösung? Der Mediathor.
 - Wie heißt die musikalischste Leckerei? Popcorn.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
-- Wie kann man entspannt Geld anhäufen? Mit einem SPAschwein.
+- Wie kann man entspannt Geld anhäufen? Mit einem Spa-Schwein.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
