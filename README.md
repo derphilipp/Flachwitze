@@ -24,6 +24,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
 - Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
 - Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
+- Es gibt eine neue Band: die 1023 Megabyte. Sie hatten noch nie nen Gig.
 - Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
 - Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
@@ -109,9 +110,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
+- Was essen Katzen am liebsten? Mausmannskost.
+- Was essen Piraten am liebsten zum Frühstück? Aye.
 - Was essen Piraten am liebsten? — Kapern.
+- Was essen Verliebte am liebsten? Kusskuss.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
+- Was flitzt essbares über die Straßen? Eine Cartoffel.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
@@ -125,8 +130,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hält warm und auch Ordnung? Der Pullizist
 - Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst Familie Biber zu abend? Tischstäbchen.
+- Was isst eine Bombe am liebsten? KartoffelPUFFer.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
+- Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
@@ -137,9 +144,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
 - Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
+- Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
 - Was ist das Gegenteil von Japan? Neinpan.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist das agressivste Milchprodukt? Schlagsahne.
+- Was ist das lustigste Auto? Scherzedes.
+- Was ist das zerstörerischste Tier? Der Schmetterling.
 - Was ist der schlauste Ast? Ein Gymniasast.
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
@@ -163,7 +173,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
 - Was ist grün und fliegt durchs Weltall? Ein Salatelit.
 - Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus.
+- Was ist grün und fährt mit der Bahn? Eine Zughini
 - Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
+- Was ist grün und heiß? Eine Brennnessel.
 - Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
 - Was ist grün und macht die Toilette sauber? Ein Klokodil.
@@ -188,6 +200,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist orange und kann nicht still sitzen? Eine Zappelsine.
 - Was ist orange und läuft durch die Berge? Eine Wandarine.
 - Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
+- Was ist rosa und kennt sich gut mit Waffen aus? Die Ballerrina.
 - Was ist rot und fährt Fahrrad? Raddieschen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
 - Was ist rot und steht an der Straße? Eine Hagenutte.
@@ -206,6 +219,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist unzufrieden, redet undeutlich und lebt im Wasser? Eine Mies-Nuschel.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
+- Was ist weiß und läuft den Berg hoch? Ein Marschmellow.
 - Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
 - Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
 - Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
@@ -244,6 +258,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sagt ein Ackerbesteller bei gutem Wetter? Das Land-wird.
 - Was sagt ein Gen, wenn es ein anderes trifft? - Halogen.
 - Was sagt ein Pirat im Pferdestall? A, Heu.
+- Was schwebt hölzern im All? Der Asttronaut.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten.
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
 - Was sind die teuersten Tomaten? Die Geldautomaten.
@@ -257,25 +272,38 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht auf der Weide und ist müde? Ein Schlaf.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
+- Was trinken Koalas am liebsten? Das Coca-Koala.
+- Was veranstalten Berge gegen den Klimawandel? Einen Krisengipfel.
+- Was will ein Astronaut? All-les.
 - Was wird oft übersehen? Ein Gartenzaun.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
 - Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
+- Welche Schule ist nix für Vegetarier? Hackwards.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
+- Welched Tier schreibt sich noch mit einem Buchstaben? Der V.
+- Welcher Buchstabe ist der coolste? Ohmega.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welcher Hund ist immer müde? Der Schläferhund.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
+- Welches Essen ist voll der Knaller? Dönermit.
+- Welches Essen schaut immer böse drein? Das Sauerkraut.
+- Welches Fortbewegungsmittel hat eine Pandaphobie? Der Bambus.
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
+- Welches Instrument spielen Impfgegner? Querflöte.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
 - Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
 - Welches Tier hält immer Maß? Der Ellensittich.
+- Welches Tier ist ein Genie in Mathe? Das Plusspferd.
+- Welches Tier kann nicht hören? Die Taube.
 - Welches Tier klebt gerne zwischen den Zähnen? Der Karamellensittich.
 - Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
+- Welches Tier schreibt sich mit einem Buchstaben? Die Q.
 - Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
 - Welches ist die lustigste Automarke? Scherzedes.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
@@ -291,12 +319,16 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
+- Wie heißt der Lieblingskäse eines Saunagängers? Schwitzer Käse.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
+- Wie heißt der nordische Gott der gewaltfreien Konfliktlösung? Der Mediathor.
+- Wie heißt die musikalischste Leckerei? Popcorn.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
+- Wie kann man entspannt Geld anhäufen? Mit einem Spa-Schwein.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
@@ -361,6 +393,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
+- Wie sperrt man das Spielzimmer ab? Mit einem Kinderriegel.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
@@ -369,11 +402,17 @@ Gerne weitere als Pull-Request hinzufügen.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
+- Wo geht ein Vampir essen? Zum Imbiss.
 - Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
+- Wo ist Harrison? Fort.
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
+- Wo kommt das Essen rein? Dortmund.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
 - Wo wohnen Katzen? Im Mietz-Haus!
+- Wo wohnt der Hamster? In Hamsterdamm.
+- Wo zelltet man besonders schön? In Campten.
+- Woher bekommt Pampel seine Ideen? Von seiner Muse.
 - Wohin gehen Arzt und Ärztin zum feiern? Auf den Medizinball.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
@@ -381,8 +420,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit backen Schlümpfe? Mit Garga-Mehl.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
+- Womit messen Bäcker die Größe von Croissants? Mit einem Eichhörnchen.
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher.
 - Womit verzieren Rinder ihren Kuchen? Mit Kuhvertüre.
+- Worin entführt der Pirat seine Geliebte? In der Schatztruhe.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
