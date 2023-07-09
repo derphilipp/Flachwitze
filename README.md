@@ -9,6 +9,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
+- Aus welcher Stadt kommen die Audiokabel? Auxburg
 - Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
 - Brennholzverleih.
@@ -73,6 +74,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
 - Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
 - Schicke Unterwäsche! - Wohin?
+- Sie haben Meeresbiologie studiert? Als Walfach.
 - Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
 - Steht ein Baum allein im Wald...
 - Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
@@ -114,6 +116,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Katzen am liebsten? Mausmannskost.
+<<<<<<< HEAD
+=======
+- Was essen Piraten am liebsten zum Frühstück? Aye.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Was essen Piraten am liebsten? — Kapern.
 - Was essen Verliebte am liebsten? Kusskuss.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
@@ -242,7 +248,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
+- Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
+- Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
 - Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
@@ -277,15 +285,22 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht auf der Weide und ist müde? Ein Schlaf.
 - Was stinkt hier so? Die Kloketten.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
+<<<<<<< HEAD
 - Was trinken Koalas am liebsten? Das CocaKoala.
 - Was veranstalten Berge gegen den Klimawandel? Einen Krisengipfel.
 - Was will ein Astronaut? All-les.
 - Was wird nie teurer? Freibier.
+=======
+- Was trinken Koalas am liebsten? Das Coca-Koala.
+- Was veranstalten Berge gegen den Klimawandel? Einen Krisengipfel.
+- Was will ein Astronaut? All-les.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Was wird oft übersehen? Ein Gartenzaun.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
 - Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
+- Welche Schule ist nix für Vegetarier? Hackwards.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welched Tier schreibt sich noch mit einem Buchstaben? Der V.
 - Welcher Buchstabe ist der coolste? Ohmega.
@@ -293,7 +308,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welcher Hund ist immer müde? Der Schläferhund.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
+<<<<<<< HEAD
 - Welches Essen fördert Corona? Schnupfnudeln!
+=======
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Welches Essen ist voll der Knaller? Dönermit.
 - Welches Essen schaut immer böse drein? Das Sauerkraut.
 - Welches Fortbewegungsmittel hat eine Pandaphobie? Der Bambus.
@@ -315,6 +333,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
+- Wer hat Darth Vader auf den Kopf gekackt? Der Star wars.
 - Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
 - Wer ist der fröhlichste Held? Happy Potter.
 - Wer ist der lustigste Bösewicht? Loldemort.
@@ -328,21 +347,34 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
+<<<<<<< HEAD
 - Wie heißt der Lieblingskäse eines Sportlers? Schwitzer Käse.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
 - Wie heißt der stinkende Keks? Poreo.
 - Wie heißt die Haushaltshilfe? Magdalena.
+=======
+- Wie heißt der Lieblingskäse eines Saunagängers? Schwitzer Käse.
+- Wie heißt der Tiger mit Vornamen? - Schaumfes!
+- Wie heißt der einsamste Franzose? Alain.
+- Wie heißt der nordische Gott der gewaltfreien Konfliktlösung? Der Mediathor.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Wie heißt die musikalischste Leckerei? Popcorn.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
+<<<<<<< HEAD
 - Wie kann man entspannt Geld anhäufen? Mit einem SPAschwein.
+=======
+- Wie kann man entspannt Geld anhäufen? Mit einem Spa-Schwein.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
 - Wie nennt man Fernsehverbot auf Russisch? Njetflix.
 - Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
 - Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
+- Wie nennt man Sex mit Gegenständen? Dingsbums
 - Wie nennt man befreundete Gummibärchen? Haribros.
 - Wie nennt man das Fahrrad einer arabisch Kuh? Murad
 - Wie nennt man das Foto eines Waisenkindes? Familienbild.
@@ -360,6 +392,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
 - Wie nennt man ein verschwundenes Rindvieh? - Oxford.
 - Wie nennt man ein weißes Mammut? Hell-mut!
+- Wie nennt man eine Ansammlung singender Wale? Orcapella Gruppe.
 - Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
 - Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
 - Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
@@ -400,6 +433,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen unfreundlichen Milliardär? Eurogant.
 - Wie nennt man einen veganen Vampir? Graf Rucola!
 - Wie nennt man einen überfahrenen Vogel? Piepmatsch!
+- Wie nennt man es, wenn man nicht mehr aufhören kann, frittierte Kartoffeln zu essen? Krokettenreaktion
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
@@ -407,9 +441,15 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
 - Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
+- Wie vollzieht Bibi Blocksberg eine Scheidung? Ex, Ex!
 - Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
 - Wie wars in Venedig? Saarbrücken.
+<<<<<<< HEAD
+=======
+- Wieso bleibt das Pferd ständig stehen? Vermutlich ein Problem mit der Hüdraulik.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
+- Wieso werden auf diesem Bauernhof Medikamente verkauft? Das ist eine Ratiopharm.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
@@ -420,9 +460,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo kommt das Essen rein? Dortmund.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
+- Wo parkt ein Admin seine Yacht? Im Bootsektor.
 - Wo wohnen Katzen? Im Mietz-Haus!
 - Wo wohnt der Hamster? In Hamsterdamm.
+<<<<<<< HEAD
 - Wo zelltet man besonders schön? In Campten.
+=======
+- Wo zeltet man besonders schön? In Campten.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Woher bekommt Pampel seine Ideen? Von seiner Muse.
 - Wohin gehen Arzt und Ärztin zum feiern? Auf den Medizinball.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
@@ -431,14 +476,22 @@ Gerne weitere als Pull-Request hinzufügen.
 - Womit backen Schlümpfe? Mit Garga-Mehl.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
+<<<<<<< HEAD
 - Womit messen Bäcker die Größe von Croissants? Mit einem Eichhörnchen. (Thanks to @tuedelig fom twitter)
+=======
+- Womit messen Bäcker die Größe von Croissants? Mit einem Eichhörnchen.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
 - Womit verprügeln sich Schafe? Mit dem Mäh-Drescher.
 - Womit verzieren Rinder ihren Kuchen? Mit Kuhvertüre.
 - Worin entführt der Pirat seine Geliebte? In der Schatztruhe.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+<<<<<<< HEAD
 - Zu welchem Fest wird am meisten getrunken? Weinnachten
 - {1} Was ist grau und sitzt auf dem Klo? Ein Kloala.
 - {2} Was ist grün und sitzt daneben? Der Kacktus.
 - {3} Was ist grün und sitzt neben dem Kloala und dem Kacktus? Ein Klokodil
+=======
+- Zu welchem Fest wird am meisten getrunken? Weinnachten.
+>>>>>>> 01dd1e65021eba5bd87b2c9f8fcbfe69f5698640
