@@ -104,6 +104,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
 - Was Schule ist nichts für Veganer? Hackwards.
+- Was bekommen Schuhe, wenn man sie in Salzwasser legt? Mehr Sole.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
