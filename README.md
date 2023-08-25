@@ -63,7 +63,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
+- Nordischer Gott der gewaltfreien Konfliktlösung? Der Mediathor.
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
+- Piraten gönnen sich morgens am Liebsten ein Frühstücks-Aye.
 - Sagt der Pessimist: "Schlimmer geht nicht!" - Sagt der Optimist: "Doch!"
 - Sagt der Walfisch zum Tuhnfisch: "Was wollen wir tun, Fisch?" Sagt der Thunfisch: "Du hast die Wahl, Fisch!"
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
@@ -172,6 +174,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und schwimmt über'n See? Eine Schwanane.
 - Was ist gelb und steht am Fenster? - Eine Spannanas.
 - Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
+- Was ist grau und sitzt auf dem Klo? Ein Kloala.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
@@ -184,7 +187,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
 - Was ist grün und macht die Toilette sauber? Ein Klokodil.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
-- Was ist grün und sitzt auf dem Klo? Der Kacktus.
+- Was ist grün und sitzt neben dem Kloala? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch.
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
 - Was ist grün, blind und kann singen? Kiwi Wonder.
@@ -217,6 +220,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
 - Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
+- Was ist sehr schlecht für die Zähne? Bombbombs.
+- Was ist sehr schlecht für die Zähne? Kauwumm.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
@@ -253,6 +258,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
+- Was passiert in der Modeboutique? Das Schicksal.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
 - Was redet undeutlich und lebt im Wasser? Eine Nuschel.
@@ -277,10 +283,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht auf der Weide und ist müde? Ein Schlaf.
+- Was stinkt hier so? Die Kloketten.
 - Was studiert man für einen Führerschein? Fahr-ma-kologie.
-- Was trinken Koalas am liebsten? Das Coca-Koala.
+- Was trinken Koalas am liebsten? Das CocaKoala.
 - Was veranstalten Berge gegen den Klimawandel? Einen Krisengipfel.
 - Was will ein Astronaut? All-les.
+- Was wird nie teurer? Freibier.
 - Was wird oft übersehen? Ein Gartenzaun.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
@@ -294,6 +302,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welcher Hund ist immer müde? Der Schläferhund.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
+- Welches Essen fördert Corona? Schnupfnudeln!
 - Welches Essen ist voll der Knaller? Dönermit.
 - Welches Essen schaut immer böse drein? Das Sauerkraut.
 - Welches Fortbewegungsmittel hat eine Pandaphobie? Der Bambus.
@@ -320,6 +329,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer ist der fröhlichste Held? Happy Potter.
 - Wer ist der lustigste Bösewicht? Loldemort.
 - Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
+- Wer kommt in Hogwarts immer zu spät? Harry Flotter
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
 - Wer wohnt im Dschungel und schummelt? Mogli.
@@ -328,10 +338,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
-- Wie heißt der Lieblingskäse eines Saunagängers? Schwitzer Käse.
+- Wie heißt der Lieblingskäse eines Sportlers? Schwitzer Käse.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
 - Wie heißt der nordische Gott der gewaltfreien Konfliktlösung? Der Mediathor.
+- Wie heißt der stinkende Keks? Poreo.
+- Wie heißt die Haushaltshilfe? Magdalena.
 - Wie heißt die musikalischste Leckerei? Popcorn.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
@@ -445,4 +457,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wovon träumt eine Katze nachts? Von einem Muskelkater.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
-- Zu welchem Fest wird am meisten getrunken? Weinnachten.
+- Zu welchem Fest wird am meisten getrunken? Weinnachten
