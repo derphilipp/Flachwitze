@@ -63,9 +63,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
-- Nordischer Gott der gewaltfreien Konfliktlösung? Der Mediathor. (Thanks to @possencurator from twitter)
+- Nordischer Gott der gewaltfreien Konfliktlösung? Der Mediathor.
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
-- Piraten gönnen sich morgens am Liebsten ein Frühstücks-Aye. (Thanks to @budsen from twitter)
+- Piraten gönnen sich morgens am Liebsten ein Frühstücks-Aye.
 - Sagt der Pessimist: "Schlimmer geht nicht!" - Sagt der Optimist: "Doch!"
 - Sagt der Walfisch zum Tuhnfisch: "Was wollen wir tun, Fisch?" Sagt der Thunfisch: "Du hast die Wahl, Fisch!"
 - Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
@@ -173,6 +173,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist gelb und schwimmt über'n See? Eine Schwanane.
 - Was ist gelb und steht am Fenster? - Eine Spannanas.
 - Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
+- Was ist grau und sitzt auf dem Klo? Ein Kloala.
 - Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
 - Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
 - Was ist groß, grau und ruft gleich an? Ein Telefant.
@@ -185,6 +186,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist grün und liegt im Sarg? Eine Sterbse.
 - Was ist grün und macht die Toilette sauber? Ein Klokodil.
 - Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
+- Was ist grün und sitzt neben dem Kloala? Der Kacktus.
 - Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch.
 - Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
 - Was ist grün, blind und kann singen? Kiwi Wonder.
@@ -217,8 +219,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
 - Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
-- Was ist sehr schlecht für die Zähne? Bombbombs. (Thanks to @theokrates from twitter)
-- Was ist sehr schlecht für die Zähne? Kauwumm. (Thanks to @theokrates from twitter)
+- Was ist sehr schlecht für die Zähne? Bombbombs.
+- Was ist sehr schlecht für die Zähne? Kauwumm.
 - Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
@@ -455,6 +457,3 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
 - Zu welchem Fest wird am meisten getrunken? Weinnachten
-- {1} Was ist grau und sitzt auf dem Klo? Ein Kloala.
-- {2} Was ist grün und sitzt daneben? Der Kacktus.
-- {3} Was ist grün und sitzt neben dem Kloala und dem Kacktus? Ein Klokodil
