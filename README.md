@@ -59,8 +59,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
 - Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
 - Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
-- Mein Arzt hat eine südamerikanische Augenkrankheit bei mir diagnostiziert - ich "Chile".
 - Meine Gitarre ist zu leise um mittelalterliche Musik zu spielen. Ich brauch eine Laute.
+- Mein Arzt hat eine südamerikanische Augenkrankheit bei mir diagnostiziert - ich "Chile".
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
