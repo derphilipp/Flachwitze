@@ -258,6 +258,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
+- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was passiert in der Modeboutique? Das Schicksal.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
