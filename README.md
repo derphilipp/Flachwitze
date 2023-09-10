@@ -1,5 +1,6 @@
 # Flachwitze
 
+
 Dies ist eine Liste deutscher [Flachwitze](https://de.wikipedia.org/wiki/Kalauer).
 Gerne weitere als Pull-Request hinzufügen.
 
@@ -63,6 +64,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
 - Mein Arzt hat eine südamerikanische Augenkrankheit bei mir diagnostiziert - ich "Chile".
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
+- Meine Gitarre ist zu leise um mittelalterliche Musik zu spielen. Ich brauch eine Laute.
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
 - Mit wem geht Peter Pan in die Bar? Trinker-Bell.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
@@ -109,6 +111,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
 - Was Schule ist nichts für Veganer? Hackwards.
+- Was bekommen Schuhe, wenn man sie in Salzwasser legt? Mehr Sole.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
@@ -274,8 +277,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
+- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
 - Was macht man damit Ecksen keinen Nachwuchs bekommen? Man Kastriert sie.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
+- Was passiert in der Modeboutique? Das Schicksal.
 - Was muss ein Computer machen wenn er sauer ist? Herunterfahren.
 - Was passiert in der Modeboutique? Das Schicksal.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
