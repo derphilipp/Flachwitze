@@ -1,6 +1,5 @@
 # Flachwitze
 
-
 Dies ist eine Liste deutscher [Flachwitze](https://de.wikipedia.org/wiki/Kalauer).
 Gerne weitere als Pull-Request hinzufügen.
 
@@ -277,10 +276,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
-- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
 - Was macht man damit Ecksen keinen Nachwuchs bekommen? Man Kastriert sie.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
-- Was passiert in der Modeboutique? Das Schicksal.
+- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
 - Was muss ein Computer machen wenn er sauer ist? Herunterfahren.
 - Was passiert in der Modeboutique? Das Schicksal.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
