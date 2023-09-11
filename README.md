@@ -6,16 +6,21 @@ Gerne weitere als Pull-Request hinzufügen.
 ## Die Flachwitze
 
 - "Du hast aber schon mal einen Schornstein gemauert, oder?" "Nein, das ist ein Versuchskaminchen."
+- "Excuse me, but are you Lady Di?" "Lady Di? No!"
 - (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
 - (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
+- Alle Dinos fahren Fahrrad. Ausser der Velociraptor. Der fährt Traktor.
+- Alle Dinos waren arm. Ausser T-Rex, der war Ärmer... 
 - Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
 - Aus welcher Stadt kommen die Audiokabel? Auxburg
 - Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
 - Brennholzverleih.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
+- Der Brachiosaurus nutzt Windows, der Tyrannosaurus Macs. 
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+- Die Nazis waren Arier. Die Dinos, Aurier. Goldig!
 - Die deutsche Sprache ist sehr kompliziert. Wenn man einen einzigen Buchstaben verdreht, ist der Satz uriniert.
 - Egal wie "dicht" du bist, Goethe war Dichter.
 - Egal wie du kochst, Karl Marx.
@@ -28,6 +33,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Es gibt eine neue Band: die 1023 Megabyte. Sie hatten noch nie nen Gig.
 - Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
+- Fragt der eine Dino den Anderen: "Warum siehst Du heute so zerknirscht aus?" "Ach", sagt der Andere, "ich bin heut etwas sedimental..."
 - Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
 - Gehen zwei Zahnstocher durch den Wald. Kommt ein Igel vorbei. Sagt der eine Zahnstocher: "Ich wusste gar nicht, dass hier ein Bus fährt."
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg.
@@ -85,6 +91,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Tonic ohne Alkohol ist übrigens ginlos.
 - Treffen sich zwei Jäger: Beide Tot.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
+- Und da lag Brach-iosaurus: der faulste Dino der Welt.
+- Und dann war da noch der Dino, der sein Jurastudium schmiss, weils seine ganze Kreidezeit auffrass.
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben."
 - Wann gehen U-Boote unter? Am Tag der offenen Tür.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
@@ -95,17 +103,22 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
 - Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
+- Warum hatten Dinos keine Fernseher? Weil es keine Sender gab.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum klaut Robin Hood Deo? Um es unter den Armen zu verteilen!
+- Warum konnten Dinos nicht mit Computern arbeiten? Kein Strom. 
+- Warum können Dinos nachts so schlecht sehen? Weil sie dann schlafen. 
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
 - Warum muss die Spinne grillen? Sie ist ein Weberknecht.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
+- Warum sind wir unsterblich? Dank der Dinos ist gestorben aus.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
+- Warum war das Weihnachtsfest bei den Dinos ein einmaliges Ereignis? "Ihr Kinderlein, Komet, oh Komet doch bald..."
 - Was Schule ist nichts für Veganer? Hackwards.
 - Was bekommen Schuhe, wenn man sie in Salzwasser legt? Mehr Sole.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
@@ -124,6 +137,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
 - Was flitzt essbares über die Straßen? Eine Cartoffel.
+- Was frass der Triceratops wenn er entspannen wollte? Urlaub. 
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
@@ -163,6 +177,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper.
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
+- Was ist ein Verkehrswende bewusster Ökosaurier? Ein...Velo-ciraptor.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
@@ -251,6 +266,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
+- Was macht ein Dino bei McDonalds? Arbeiten natürlich. 
 - Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
@@ -258,8 +274,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht eine Bombe im Bordell? — Puff.
 - Was macht eine Bombe im Treppenhaus? Hochgehen.
 - Was macht eine Ente auf dem Router? Nat.
-- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
+- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
 - Was passiert in der Modeboutique? Das Schicksal.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
@@ -300,10 +316,12 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welched Tier schreibt sich noch mit einem Buchstaben? Der V.
 - Welcher Buchstabe ist der coolste? Ohmega.
+- Welcher Dino arbeitet am Pier? Der Stegosaurus.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welcher Hund ist immer müde? Der Schläferhund.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
+- Welches Betriebssystem nutzen Dinosaurier? Din OS. Sogar Industrienormzertifiziert.
 - Welches Essen fördert Corona? Schnupfnudeln!
 - Welches Essen ist voll der Knaller? Dönermit.
 - Welches Essen schaut immer böse drein? Das Sauerkraut.
@@ -323,6 +341,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Tier schreibt sich mit einem Buchstaben? Die Q.
 - Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
 - Welches ist die lustigste Automarke? Scherzedes.
+- Wenn Asterix eine Brille brauchte, so weinte er ihm nach, dem alten Archä-opterix. 
+- Wenn Dinos eine Brille brauchten, dann gingen sie zum alten Archä-opterix. 
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
@@ -334,6 +354,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer kommt in Hogwarts immer zu spät? Harry Flotter
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
+- Wer war der erste DJ? Der Triceratops. Der hat beim Schlafen immer seine Rückenpanzerplatten aufgelegt.
+- Wer war der größte Dinosportler der Welt? Der Pterodartylus. 
 - Wer wohnt im Dschungel und schummelt? Mogli.
 - Wie begrüßen sich Schönheitschirurgen? Na, was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
@@ -350,7 +372,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie heißt ein asthmatischer Saurier? Bronchiosaurus.
+- Wie heißt ein kommunistischer Tyrannosarurus Rex? Stalinosaurus.
 - Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
+- Wie hieß die bekannteste Klempnerfirma der Dinos? Diplolocus.
+- Wie hieß die beliebteste Kochplatte der Dinos? Tri-Ceran-Tops.
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
 - Wie kann man entspannt Geld anhäufen? Mit einem Spa-Schwein.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
@@ -430,6 +456,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wieso bleibt das Pferd ständig stehen? Vermutlich ein Problem mit der Hüdraulik.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
 - Wieso werden auf diesem Bauernhof Medikamente verkauft? Das ist eine Ratiopharm.
+- Wieviele Dinos braucht man, um eine Glühbirne einzustecken? Nur einen, den Glühbirnosaurus Stecks. 
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
