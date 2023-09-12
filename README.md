@@ -19,6 +19,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
 - Der Brachiosaurus nutzt Windows, der Tyrannosaurus Macs. 
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
+- Der Fischer ist sauer! Wieso? Er hat kein Netz.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
 - Die Nazis waren Arier. Die Dinos, Aurier. Goldig!
 - Die deutsche Sprache ist sehr kompliziert. Wenn man einen einzigen Buchstaben verdreht, ist der Satz uriniert.
@@ -58,6 +59,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam.
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
 - In St. Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
+- In welche Kirche geht der Regisseur? In die Cutholische.
 - In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
 - In welcher Maßeinheit messen Hunde ihre Temperatur? In Belgrad.
 - Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
@@ -69,6 +71,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
 - Meine Gitarre ist zu leise um mittelalterliche Musik zu spielen. Ich brauch eine Laute.
 - Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
+- Mit wem geht Peter Pan in die Bar? Trinker-Bell.
 - Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
 - Nordischer Gott der gewaltfreien Konfliktlösung? Der Mediathor.
 - Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
@@ -124,11 +127,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
 - Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
 - Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
+- Was braucht die verletzte Straße? Pflaster.
 - Was bringt uns in 30 Jahren mit zunehmendem Klimawandel Pakete? Postboote.
 - Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
+- Was eine Raupe in einer Rüstung? Ein Raupritter.
 - Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
 - Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
 - Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
+- Was essen Alligatoren am liebsten? Krokoli.
 - Was essen Autos am liebsten? — Parkplätzchen.
 - Was essen Katzen am liebsten? Mausmannskost.
 - Was essen Piraten am liebsten zum Frühstück? Aye.
@@ -141,8 +147,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
+- Was grillen Kannibalen am liebsten? Den BibaBrutzelMan.
 - Was gräbt und ist aus der Puste? Eine Schnaufel.
 - Was hat Haare und wird gebraten? Bartkartoffeln.
+- Was hat Olaf wenn er Angst hat? Kalte Füße.
 - Was hat acht Arme und fliegt durchs Weltall? Eine Krakete.
 - Was hat acht Beine und schummelt? Eine Mogelspinne.
 - Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
@@ -151,12 +159,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was hält warm und auch Ordnung? Der Pullizist
 - Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
 - Was isst Familie Biber zu abend? Tischstäbchen.
+- Was isst der vegane Fuchs? Gänseblümchen.
 - Was isst eine Bombe am liebsten? KartoffelPUFFer.
 - Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
 - Was ist Ronaldo? Sportugiese.
 - Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad.
 - Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
 - Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
+- Was ist braun und kann fliegen? Das Kotkehlchen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist braun, gesund und beleidigt? Schmollkornbrot.
 - Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
@@ -167,14 +177,19 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
 - Was ist das Gegenteil von Japan? Neinpan.
+- Was ist das Getränk der Klugscheißer? Der Weiswein.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist das agressivste Milchprodukt? Schlagsahne.
 - Was ist das lustigste Auto? Scherzedes.
+- Was ist das sauberste Tier der Savanne? Die Hygiäne.
+- Was ist das schnellste Fortbewegungsmittel der Maus? Der Busard.
+- Was ist das unartigste Insekt? Die Rebelle.
 - Was ist das zerstörerischste Tier? Der Schmetterling.
 - Was ist der schlauste Ast? Ein Gymniasast.
 - Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
 - Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
 - Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
+- Was ist ein Boxer? Schlagfertig.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper.
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
 - Was ist ein Verkehrswende bewusster Ökosaurier? Ein...Velo-ciraptor.
@@ -253,6 +268,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
+- Was kochen Kannibalen am liebsten? Schwangere Frauen. Ne extra Portion Milch und ne Kinderüberaschung.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
 - Was lebt im Meer und spricht undeutlich? Die Nuschel.
 - Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
@@ -262,11 +278,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was machen Tiere in der Disko? Sie diskotieren.
 - Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe.
 - Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
+- Was macht Olaf in stressigen Situationen? Er bewahrt einen kühlen Kopf.
 - Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
 - Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
 - Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein Dino bei McDonalds? Arbeiten natürlich. 
+- Was macht ein Computer zur Entspannung? Er geht in den Ruhemodus.
 - Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
@@ -276,6 +294,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht eine Ente auf dem Router? Nat.
 - Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
 - Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
+- Was macht man damit Ecksen keinen Nachwuchs bekommen? Man Kastriert sie.
+- Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
+- Was macht man mit einem angefahrenen Reh? Man rehanimiert es.
+- Was muss ein Computer machen wenn er sauer ist? Herunterfahren.
 - Was passiert in der Modeboutique? Das Schicksal.
 - Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
 - Was piekst und fliest das Bad? Ein Kachelschwein.
@@ -291,7 +313,9 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was schwebt hölzern im All? Der Asttronaut.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten.
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
+- Was schwimmt im Meer und multipliziert? Der Malhai.
 - Was sind die teuersten Tomaten? Die Geldautomaten.
+- Was sind kantige Tiere? Ecksen.
 - Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
 - Was sitzt auf dem Baum und schreit "Aha!" - Ein Uhu mit Sprachfehler.
 - Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
@@ -308,17 +332,21 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was will ein Astronaut? All-les.
 - Was wird nie teurer? Freibier.
 - Was wird oft übersehen? Ein Gartenzaun.
+- Welche Bundeskanzlerin ist voll unordentlich? Angela Ferkel.
 - Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
 - Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
 - Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
 - Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
 - Welche Schule ist nix für Vegetarier? Hackwards.
+- Welche Tiere stehen voll auf Mode? Klamotten.
 - Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
 - Welched Tier schreibt sich noch mit einem Buchstaben? Der V.
 - Welcher Buchstabe ist der coolste? Ohmega.
 - Welcher Dino arbeitet am Pier? Der Stegosaurus.
+- Welcher Bösewicht ist voll geladen? Voltemord.
 - Welcher Fisch nervt im Unterricht? Na der Stör!
 - Welcher Hund ist immer müde? Der Schläferhund.
+- Welcher Käse schimpft immer? Motzarella.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
 - Welches Betriebssystem nutzen Dinosaurier? Din OS. Sogar Industrienormzertifiziert.
@@ -328,10 +356,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Fortbewegungsmittel hat eine Pandaphobie? Der Bambus.
 - Welches Gemüse serviert sich selbst? Die Obergine.
 - Welches Getränk trinken Firmenchefs? Leitungswasser.
+- Welches Instrument ist aufgeweckt? Die Muntermonika.
 - Welches Instrument spielen Impfgegner? Querflöte.
+- Welches Küchengerät funktioniert nie richtig? Der Bugofen.
 - Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
 - Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
 - Welches Obst geht immer in die Kirche? Die Frommbeere.
+- Welches Obst verarscht immer andere? Die Aprilkose.
 - Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
 - Welches Tier hält immer Maß? Der Ellensittich.
 - Welches Tier ist ein Genie in Mathe? Das Plusspferd.
@@ -359,9 +390,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer wohnt im Dschungel und schummelt? Mogli.
 - Wie begrüßen sich Schönheitschirurgen? Na, was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
+- Wie heißt Trump in Indien? Propagandhi.
 - Wie heißt das intelligenteste Gemüse? - Schlaubergine.
 - Wie heißt der Bruder von Elvis? Zwölfis.
 - Wie heißt der Erfinder der Shorts? Kurt C. Hose.
+- Wie heißt der Hengst? Pferdinand.
 - Wie heißt der Lieblingskäse eines Sportlers? Schwitzer Käse.
 - Wie heißt der Tiger mit Vornamen? - Schaumfes!
 - Wie heißt der einsamste Franzose? Alain.
@@ -369,6 +402,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt der stinkende Keks? Poreo.
 - Wie heißt die Haushaltshilfe? Magdalena.
 - Wie heißt die musikalischste Leckerei? Popcorn.
+- Wie heißt die verseuchteste Stadt? Budapest.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
@@ -395,6 +429,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
 - Wie nennt man die Zeitform wenn der Bus pünktlich war? Buskamperfekt!
+- Wie nennt man ein Kamel mit 3 Höckern? Schwanger.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
 - Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
 - Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
@@ -446,6 +481,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man heute einen Hofnarr? Untertainer.
 - Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
 - Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
+- Wie sieht das Kind des Metzgers aus? Wie aus dem Gesicht geschnitten.
 - Wie sperrt man das Spielzimmer ab? Mit einem Kinderriegel.
 - Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
 - Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
@@ -465,9 +501,13 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wo ist Harrison? Fort.
 - Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
 - Wo kommt das Essen rein? Dortmund.
+- Wo leben Mobber zusammen? In einer Gemeinschaft.
+- Wo lebt King Ass? In Buttingham palace.
 - Wo lernen die Ferkel? In der Grunzschule.
 - Wo machen Kühe Urlaub? Auf Kuuuhba!
+- Wo machen Schweine Wellness? In der Sauna.
 - Wo parkt ein Admin seine Yacht? Im Bootsektor.
+- Wo verlieben sich Computer? Bei einem UpDate.
 - Wo wohnen Katzen? Im Mietz-Haus!
 - Wo wohnt der Hamster? In Hamsterdamm.
 - Wo zeltet man besonders schön? In Campten.
@@ -476,6 +516,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
 - Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
 - Wollte Socken bei H&M kaufen. Oma strickt dagegen.
+- Womit attackieren Piraten mit Verdauungsproblemen? Mit Schisspulver, Kackanone und Pisstolen.
 - Womit backen Schlümpfe? Mit Garga-Mehl.
 - Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
 - Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
