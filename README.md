@@ -269,6 +269,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was macht die Security in der Nudelfabrik? Die Pasta auf.
 - Was macht ein Clown im Büro? Faxen.
 - Was macht ein Computer zur Entspannung? Er geht in den Ruhemodus.
+- Was macht ein Elektriker, der nicht weiß wo die Leitungen lang gehen? Er schaut in das Wo-Kabel-Heft.
 - Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
 - Was macht ein Metzger im Wald? Schnitzeljagd.
 - Was macht ein Steak unter dem Sofa? Sich versteaken.
