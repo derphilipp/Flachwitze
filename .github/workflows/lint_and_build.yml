@@ -45,11 +45,11 @@ jobs:
 
       - name: Get Date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
 
       - name: Get Short SHA
         id: sha
-        run: echo "::set-output name=sha::$(git rev-parse --short HEAD)"
+        run: echo "{sha}={$(git rev-parse --short HEAD)}" >> $GITHUB_OUTPUT
 
       - name: Release
         uses: softprops/action-gh-release@v2
