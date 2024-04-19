@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Check alphabetical order in file
         run: |
@@ -25,7 +25,7 @@ jobs:
           LC_ALL: de_DE.UTF-8
 
       - name: Lint Code Base
-        uses: github/super-linter@v4
+        uses: github/super-linter@v5
         env:
           VALIDATE_ALL_CODEBASE: true
           VALIDATE_NATURAL_LANGUAGE: false
@@ -45,11 +45,11 @@ jobs:
 
       - name: Get Date
         id: date
-        run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
+        run: echo "{date}={\"$(date +'%Y-%m-%d')\"}" >> $GITHUB_OUTPUT
 
       - name: Get Short SHA
         id: sha
-        run: echo "{sha}={$(git rev-parse --short HEAD)}" >> $GITHUB_OUTPUT
+        run: echo "{sha}={\"$(git rev-parse --short HEAD)\"}" >> $GITHUB_OUTPUT
 
       - name: Release
         uses: softprops/action-gh-release@v2
