@@ -48,12 +48,12 @@ jobs:
       - name: Get Date
         if: github.ref == 'refs/heads/main'
         id: date
-        run: echo "{date}={$(date +'%Y-%m-%d')}" >> "$GITHUB_OUTPUT"
+        run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
 
       - name: Get Short SHA
         if: github.ref == 'refs/heads/main'
         id: sha
-        run: echo "{sha}={\"$(git rev-parse --short HEAD)\"}" >> "$GITHUB_OUTPUT"
+        run: echo "sha=\"$(git rev-parse --short HEAD)\"" >> "$GITHUB_OUTPUT"
 
       # Create release upon push on main
       - name: Create tag
