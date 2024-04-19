@@ -38,36 +38,43 @@ jobs:
       #     python-version: "3.x"
 
       - name: Install fortune
+        if: github.ref == 'refs/heads/main'
         run: sudo apt-get install fortune
 
       - name: Run make gen-fortune
+        if: github.ref == 'refs/heads/main'
         run: make gen-fortune
 
       - name: Get Date
+        if: github.ref == 'refs/heads/main'
         id: date
         run: echo "{date}={$(date +'%Y-%m-%d')}" >> "$GITHUB_OUTPUT"
 
       - name: Get Short SHA
+        if: github.ref == 'refs/heads/main'
         id: sha
         run: echo "{sha}={\"$(git rev-parse --short HEAD)\"}" >> "$GITHUB_OUTPUT"
 
-      - name: Release
-        uses: softprops/action-gh-release@v2
-        # only run this action if the branch is `main`:
+      # Create release upon push on main
+      - name: Create tag
         if: github.ref == 'refs/heads/main'
-        #
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.2
         with:
-          files: |
-            output/flachwitze
-            output/flachwitze.dat
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          custom_tag: v${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
 
       - name: Create Release
+        if: github.ref == 'refs/heads/main'
         id: create_release
-        uses: actions/create-release@v1
+        uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
-          release_name: ${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
+          tag_name: v${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
+          name: v${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
           draft: false
           prerelease: false
+          files: |
+            output/flachwitze
+            output/flachwitze.dat
