@@ -31,3 +31,43 @@ jobs:
           VALIDATE_NATURAL_LANGUAGE: false
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Set up Python
+      #   uses: actions/setup-python@v5
+      #   with:
+      #     python-version: "3.x"
+
+      - name: Install fortune
+        run: sudo apt-get install fortune
+
+      - name: Run make gen-fortune
+        run: make gen-fortune
+
+      - name: Get Date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Get Short SHA
+        id: sha
+        run: echo "::set-output name=sha::$(git rev-parse --short HEAD)"
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        # only run this action if the branch is `main`:
+        if: github.ref == 'refs/heads/main'
+        #
+        with:
+          files: |
+            output/flachwitze
+            output/flachwitze.dat
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
+          release_name: ${{ steps.date.outputs.date }}-${{ steps.sha.outputs.sha }}
+          draft: false
+          prerelease: false
