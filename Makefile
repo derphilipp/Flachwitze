@@ -13,7 +13,7 @@ gen-fortune:
 	-mkdir output
 	tail -n +8 README.md > flachwitze.md
 	python3 scripts/fortune.py flachwitze.md output/flachwitze
-	cd output && strfile flachwitze
+	cd output && strfile  -c % flachwitze
 	rm flachwitze.md
 
 
