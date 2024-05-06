@@ -14,8 +14,8 @@ def process_file(input_file, output_file):
                 # Remove leading '- ' if present
                 if line.startswith("- "):
                     line = line[2:]
-                # Write '%\n' followed by the modified line
-                file.write(f"%\n{line}")
+                # Write the line, followed by a newline - and a % in an otherwise empty line
+                file.write(f"{line}%\n")
     except FileNotFoundError:
         print(f"Error: The file '{input_file}' does not exist.")
     except Exception as e:
