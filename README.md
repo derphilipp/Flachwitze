@@ -88,6 +88,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Tonic ohne Alkohol ist übrigens ginlos.
 - Treffen sich zwei Jäger: Beide Tot.
 - Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
+- Unter welchen Krankheitssymptomen leiden Astronauten? Reizhouston.
 - Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben."
 - Wann gehen U-Boote unter? Am Tag der offenen Tür.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
