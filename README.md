@@ -183,6 +183,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
 - Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
+- Was ist gelb und explodiert beim Drauftreten? Die Mine Maja.
 - Was ist gelb und flattert im Wind? Eine Fahnane.
 - Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
 - Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
