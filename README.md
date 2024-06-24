@@ -14,6 +14,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
 - Brennholzverleih.
 - Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
+- Der Brachiosaurus nutzt Windows, der Tyrannosaurus Macs.
 - Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
 - Der Fischer ist sauer! Wieso? Er hat kein Netz.
 - Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
@@ -29,6 +30,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Es gibt eine neue Band: die 1023 Megabyte. Sie hatten noch nie nen Gig.
 - Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
 - Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
+- Fragt der eine Dino den Anderen: "Warum siehst Du heute so zerknirscht aus?" "Ach", sagt der Andere, "ich bin heut etwas sedimental...".
 - Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
 - Gehen zwei Zahnstocher durch den Wald. Kommt ein Igel vorbei. Sagt der eine Zahnstocher: "Ich wusste gar nicht, dass hier ein Bus fährt."
 - Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg.
@@ -101,12 +103,14 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
 - Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
 - Warum klaut Robin Hood Deo? Um es unter den Armen zu verteilen!
+- Warum können Dinos nachts so schlecht sehen? Weil sie dann schlafen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
 - Warum muss die Spinne grillen? Sie ist ein Weberknecht.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
 - Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
+- Warum sind wir unsterblich? Dank der Dinos ist gestorben aus.
 - Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
 - Warum summen Bienen? Weil sie den Text nicht kennen.
 - Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
@@ -131,6 +135,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
 - Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
 - Was flitzt essbares über die Straßen? Eine Cartoffel.
+- Was fraß der Triceratops wenn er entspannen wollte? Ur-Laub.
 - Was freut sich und stinkt? - Das Gefurztagskind.
 - Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
 - Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
@@ -179,6 +184,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist ein Boxer? Schlagfertig.
 - Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper.
 - Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
+- Was ist ein Verkehrswende bewusster Ökosaurier? Ein Velo-ciraptor.
 - Was ist ein nackter Ritter? Ent-rüstet!
 - Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
 - Was ist eine Kastanie hinter Gittern? Eine Knastanie.
@@ -333,6 +339,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welcher Käse schimpft immer? Motzarella.
 - Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
 - Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
+- Welches Betriebssystem nutzen Dinosaurier? Din OS. Sogar Industrienormzertifiziert.
 - Welches Essen fördert Corona? Schnupfnudeln!
 - Welches Essen ist voll der Knaller? Dönermit.
 - Welches Essen schaut immer böse drein? Das Sauerkraut.
@@ -355,6 +362,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches Tier schreibt sich mit einem Buchstaben? Die Q.
 - Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
 - Welches ist die lustigste Automarke? Scherzedes.
+- Welches ist der faulste Dinosaurier, der nur rumliegt? Der Brach-iosaurus.
+- Welches ist das beliebteste Lied zu Weihnachten bei den Dinos? Ihr Kinderlein Komet.
+- Wenn Asterix eine Brille brauchte, so weinte er ihm nach, dem alten Archäopterix.
+- Wenn Dinos eine Brille brauchten, dann gingen sie zum alten Archäopterix.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
 - Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
@@ -366,6 +377,8 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wer kommt in Hogwarts immer zu spät? Harry Flotter
 - Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
 - Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
+- Wer war der erste DJ? Der Triceratops. Der hat beim Schlafen immer seine Rückenpanzerplatten aufgelegt.
+- Wer war der größte Dinosportler der Welt? Der Pterodartylus.
 - Wer wohnt im Dschungel und schummelt? Mogli.
 - Wie begrüßen sich Schönheitschirurgen? Na, was machst Du denn für ein Gesicht?
 - Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
@@ -385,7 +398,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie heißt ein Keks an der Börse? Spekulatius.
 - Wie heißt ein Ritter ohne Helm? Willhelm.
 - Wie heißt ein Spanier ohne Auto? Carlos.
+- Wie heißt ein asthmatischer Saurier? Bronchiosaurus.
+- Wie heißt ein kommunistischer Tyrannosarurus Rex? Stalinosaurus.
 - Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
+- Wie hieß die bekannteste Klempnerfirma der Dinos? Diplolocus.
+- Wie hieß die beliebteste Kochplatte der Dinos? Tri-Ceran-Tops.
 - Wie ist die Handschrift eines Tintenfisches? Krakelig.
 - Wie kann man entspannt Geld anhäufen? Mit einem Spa-Schwein.
 - Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
@@ -467,6 +484,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wieso bleibt das Pferd ständig stehen? Vermutlich ein Problem mit der Hüdraulik.
 - Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
 - Wieso werden auf diesem Bauernhof Medikamente verkauft? Das ist eine Ratiopharm.
+- Wieviele Dinos braucht man, um eine Glühbirne einzustecken? Nur einen, den Glühbirnosaurus Stecks.
 - Will jemand einen Witz über Natriumhydrat hören - NaH!
 - Wo baden Eisbären am liebsten? Im Nordpool.
 - Wo geht Darth Vader shoppen? In der Darth Mall!
