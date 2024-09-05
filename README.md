@@ -170,6 +170,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
 - Was ist das Gegenteil von Japan? Neinpan.
+- Was ist das Gegenteil von Katalog? Kata sagt die Wahrheit.
 - Was ist das Getränk der Klugscheißer? Der Weiswein.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist das agressivste Milchprodukt? Schlagsahne.
@@ -260,6 +261,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und stört beim Essen? Eine Lawine.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
+- Was ist, wenn man bei IKEA klaut? Man wird vermöbelt.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kochen Kannibalen am liebsten? Schwangere Frauen. Ne extra Portion Milch und ne Kinderüberaschung.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
