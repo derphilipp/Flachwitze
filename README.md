@@ -251,7 +251,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
 - Was ist unzufrieden, redet undeutlich und lebt im Wasser? Eine Mies-Nuschel.
-- Was ist, wenn man bei IKEA klaut? Man wird vermöbelt.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und läuft den Berg hoch? Ein Marschmellow.
@@ -262,6 +261,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist weiß und stört beim Essen? Eine Lawine.
 - Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
 - Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
+- Was ist, wenn man bei IKEA klaut? Man wird vermöbelt.
 - Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
 - Was kochen Kannibalen am liebsten? Schwangere Frauen. Ne extra Portion Milch und ne Kinderüberaschung.
 - Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
