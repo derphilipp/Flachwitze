@@ -170,6 +170,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
 - Was ist das Gegenteil von Japan? Neinpan.
+- Was ist das Gegenteil von Katalog? Kata sagt die Wahrheit.
 - Was ist das Getränk der Klugscheißer? Der Weiswein.
 - Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
 - Was ist das agressivste Milchprodukt? Schlagsahne.
@@ -250,6 +251,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
 - Was ist unter der Erde und stinkt? Eine Furzel.
 - Was ist unzufrieden, redet undeutlich und lebt im Wasser? Eine Mies-Nuschel.
+- Was ist, wenn man bei IKEA klaut? Man wird vermöbelt.
 - Was ist weiß und fliegt durch den Wald? Biene Mayo.
 - Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
 - Was ist weiß und läuft den Berg hoch? Ein Marschmellow.
