@@ -307,7 +307,6 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten.
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
 - Was schwimmt im Meer und multipliziert? Der Malhai.
-- Was springt von Klotür zu Klotür mit einer Banane in der Hand? Ein Klorilla.
 - Was sind die teuersten Tomaten? Die Geldautomaten.
 - Was sind kantige Tiere? Ecksen.
 - Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
@@ -316,6 +315,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
+- Was springt von Klotür zu Klotür mit einer Banane in der Hand? Ein Klorilla.
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht auf der Weide und ist müde? Ein Schlaf.
