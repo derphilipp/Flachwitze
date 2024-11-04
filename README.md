@@ -307,6 +307,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten.
 - Was schwimmt im Meer und addiert? Ein Oktoplus.
 - Was schwimmt im Meer und multipliziert? Der Malhai.
+- Was springt von Klotür zu Klotür mit einer Banane in der Hand? Ein Klorilla.
 - Was sind die teuersten Tomaten? Die Geldautomaten.
 - Was sind kantige Tiere? Ecksen.
 - Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
