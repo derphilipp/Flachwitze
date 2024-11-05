@@ -166,7 +166,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist braun, lecker und gesund? Schogolade.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
-- Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
+- Was ist bunt, leuchtet und kann nicht schwimmen? Ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
 - Was ist das Gegenteil von Japan? Neinpan.
