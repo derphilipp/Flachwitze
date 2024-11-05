@@ -163,6 +163,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist braun, gesund und beleidigt? Schmollkornbrot.
 - Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
+- Was ist braun, knusprig und läuft mit dem Korb durch den Wald? Ein Brotkäppchen.
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist braun, lecker und gesund? Schogolade.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
