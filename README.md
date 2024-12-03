@@ -163,10 +163,11 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist braun und schwimmt unter Wasser? Ein U-Brot.
 - Was ist braun, gesund und beleidigt? Schmollkornbrot.
 - Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
+- Was ist braun, knusprig und läuft mit dem Korb durch den Wald? Ein Brotkäppchen.
 - Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
 - Was ist braun, lecker und gesund? Schogolade.
 - Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
-- Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
+- Was ist bunt, leuchtet und kann nicht schwimmen? Ein Bagger mit Lichterkette.
 - Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
 - Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
 - Was ist das Gegenteil von Japan? Neinpan.
@@ -315,6 +316,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was sitzt auf einem Baum und winkt? — Ein Huhu!
 - Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
 - Was sitzt im Baum und weint? Eine Heule!
+- Was springt von Klotür zu Klotür mit einer Banane in der Hand? Ein Klorilla.
 - Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
 - Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
 - Was steht auf der Weide und ist müde? Ein Schlaf.
