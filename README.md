@@ -97,6 +97,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
 - Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
 - Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
+- Warum füllt der Triebfahrzeugführer Schafskäse in seine Lok? Als Reserve für die Fetaspeicherbremse.
 - Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
 - Warum gibt es im Wald kein Corona? Weil die Bäume 2G haben.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
