@@ -462,6 +462,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
+- Wie nennt man einen Hund der zaubern kann? Labrakadabrador.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
