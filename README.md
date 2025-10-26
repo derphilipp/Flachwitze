@@ -51,6 +51,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen.
 - Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
 - Ich habe meiner Frau zu Weihnachten einen Nerz geschenkt und jetzt weigert sie sich, das Tier zu füttern.
+- Ich habe neulich ein Blatt gelocht - aber das nur am Rande...
 - Ich wollte einen Witz über die Deutsche Bahn machen, aber ich wusste nicht ob der ankommt.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam.
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
@@ -461,6 +462,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
 - Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
 - Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
+- Wie nennt man einen Hund der zaubern kann? Labrakadabrador.
 - Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
 - Wie nennt man einen ausgehungerten Frosch? Magerquark.
 - Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
