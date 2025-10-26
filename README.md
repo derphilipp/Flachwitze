@@ -240,6 +240,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
 - Was ist rot und steht an der Straße? Eine Hagenutte.
 - Was ist rot und steht im Wald? Ein Kirsch.
+- Was ist rot und steht ratlos am Drucker? Ein Paprikant.
 - Was ist rot und wiehert? Eine Pferdbeere.
 - Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
 - Was ist rothaarig, gesanglich begabt und kann nicht gut malen? Ed Schmieren.
