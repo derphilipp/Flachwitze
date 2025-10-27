@@ -100,6 +100,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
 - Warum füllt der Triebfahrzeugführer Schafskäse in seine Lok? Als Reserve für die Fetaspeicherbremse.
 - Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
+- Warum gehorcht ein Anwalt aufs Wort, sobald er mehrere Personen vertritt? Weil er dann Ko-Mandanten hat.
 - Warum gibt es im Wald kein Corona? Weil die Bäume 2G haben.
 - Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
 - Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
@@ -240,6 +241,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
 - Was ist rot und steht an der Straße? Eine Hagenutte.
 - Was ist rot und steht im Wald? Ein Kirsch.
+- Was ist rot und steht ratlos am Drucker? Ein Paprikant.
 - Was ist rot und wiehert? Eine Pferdbeere.
 - Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
 - Was ist rothaarig, gesanglich begabt und kann nicht gut malen? Ed Schmieren.
