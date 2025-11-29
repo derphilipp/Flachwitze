@@ -528,3 +528,10 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
 - Zu welchem Fest wird am meisten getrunken? Weinnachten
+- In Spanien kommt man für nervige Weihnachtslieder ins Gefängnis. Ins Verlies Navidad!
+- Wenn man per Gebärdensprache kommuniziert und einen Finger weniger hat … ist das ein Sprachfehler oder ein Akzent?
+- MEIN SOHN WIRD GEMOBBT! - Meiner wäscht sich ja selbst …
+- Ist Kegeln mit Thomas Anders als mit Dieter Bohlen?
+- Jedes Mal wenn man sich Desinfektionsmittel auf die Eier sprüht läuft der Sagrotan!
+- Ich kenne einen guten Fahrradwitz! Aber den Fahrrad ich dir nicht. Sonst wäre ich ein Fahrräder!
+- Hinweis, dass du nicht der wertvollste Mitarbeiter bist: "Chef, ich komme heute nicht zur Arbeit!" - "Danke!"
