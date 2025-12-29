@@ -528,3 +528,4 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
 - Zu welchem Fest wird am meisten getrunken? Weinnachten
+- Warum können Skelette so schlecht lügen? Weil ihnen das Rückgrat fehlt.
