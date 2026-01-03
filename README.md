@@ -52,13 +52,16 @@ Gerne weitere als Pull-Request hinzufügen.
 - Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
 - Ich habe meiner Frau zu Weihnachten einen Nerz geschenkt und jetzt weigert sie sich, das Tier zu füttern.
 - Ich habe neulich ein Blatt gelocht - aber das nur am Rande...
+- Ich kenne einen guten Fahrradwitz! Aber den Fahrrad ich dir nicht. Sonst wäre ich ein Fahrräder!
 - Ich wollte einen Witz über die Deutsche Bahn machen, aber ich wusste nicht ob der ankommt.
 - Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam.
 - In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
+- In Spanien kommt man für nervige Weihnachtslieder ins Gefängnis. Ins Verlies Navidad.
 - In St. Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
 - In welche Kirche geht der Regisseur? In die Cutholische.
 - In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
 - In welcher Maßeinheit messen Hunde ihre Temperatur? In Belgrad.
+- Ist Kegeln mit Thomas Anders als mit Dieter Bohlen?
 - Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
 - Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
 - Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
