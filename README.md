@@ -113,6 +113,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Warum können Dinos nachts so schlecht sehen? Weil sie dann schlafen.
 - Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
 - Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
+- Warum können Skelette so schlecht lügen? Weil ihnen das Rückgrat fehlt.
 - Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
 - Warum muss die Spinne grillen? Sie ist ein Weberknecht.
 - Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
