@@ -532,3 +532,94 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
 - Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
 - Zu welchem Fest wird am meisten getrunken? Weinnachten
+- Was ist grün und fliegt über die Wiese? Die Birne Maja!
+- Sagt die eine Unterhose zur anderen: Sag mal, warst du im Urlaub? Du bist so braun?!
+- Wie nennt man einen Bären, der laut "Kugel" schreit? Kugel-schrei-bär!
+- Was ist grün und sitzt auf dem Klo? Ein Kaktus!
+- Was hat ein Vogel, der auf einen Misthaufen fällt? Kotflügel!
+- Was ist das Gegenteil von analog? Anna sagte die Wahrheit!
+- Was macht ein Pirat mit einem Computer? Die Enter-Taste drücken.
+- Wie nennt man eine Frau mit Klasse? Lehrerin!
+- Wie heißt ein Zauberer, der eine Stunde für einen Zauberspruch benötigt? Harry Stotter.
+- Wie nennt man eine 1 mm große Welle? Mikrowelle!
+- Was blinkt und geht auf und zu? Schrankenwagen!
+- Was stinkt und glänzt auf den Nägeln? Spargellack!
+- Was macht ein Kaugummi auf dem Computer? Kauenloaden!
+- Wie nennt man einen alten Schneemann? Pfütze.
+- Wie nennt man einen Kaktus ohne Stachel? Eine Gurke.
+- In welchen Zug passt nur eine Person? In den Schlafanzug.
+- Was macht 999-mal klick und einmal klack? Ein Tausendfüßler mit einem Holzbein.
+- Wie nennt man Wale, die nicht ganz rund sind? Owale.
+- Was essen Hunde gern? Bellkartoffeln.
+- Welche Tiere wissen immer, wie spät es ist? Uhrzeitkrebse.
+- Was steht auf der Wiese und stinkt? Ein Müffel!
+- Welcher Fisch beherrscht ein Saiteninstrument? Der Harpfen.
+- Welcher Kuchen ist gefährlich? Der Bienenstich.
+- Welches Lama fliegt in den Weltraum? Das Allpaka.
+- Was macht ein Frosch in einer Molkerei? Quark.
+- Was ist langsam und hat eine Zunge? Eine Schlecke.
+- Warum ist Zucker schlauer als Salz? Weil er raffiniert ist.
+- Was schwimmt auf dem See und macht "Kikeriki"? Ein Wasserhahn.
+- Wie nennt man springende Pilze? Jumpingnons.
+- Welcher Bär hat immer Ferien? Der Urlaubär.
+- Wie heißt ein Bär, der fliegen kann? Hubschrau-Bär!
+- Was ist rosa und schwimmt im Ozean? Die Meerjungsau.
+- Was kommt aus einer defekten Kaffeemaschine? Ein Kaputtcino.
+- Warum können Dinosaurier nicht mit den Händen klatschen? Weil sie ausgestorben sind.
+- Was ist schwarz-weiß und blinkt in der Savanne? Das Blinktier!
+- Was ist rot gefiedert und findet sich besonders toll? Ein Papageil!
+- Was ist grün und hat eine Augenklappe? Ein Spirat!
+- Was ist leicht und fliegt durch die Nacht? Eine Federmaus!
+- Was ist grün, flüssig und schmust gerne? Ein Schmoothie!
+- Für welches Tier bekommt man Geld zurück? Elepfand.
+- Was steht im Wald und kann zum Kochen benutzt werden? Die Büche.
+- Was stinkt, spuckt und fliegt durch den Weltraum? Das Allkacka.
+- Was haut und schwimmt durchs Meer? Der Hauwal.
+- Was ist blau und steht im Wald? Ein Pflaum.
+- Was ist grün und klatscht? Die Bravocado.
+- Was stinkt und hat Auftrieb? Ein Kotflügel.
+- Zwei Zitronen wollen sich treffen. Eine kommt nicht – da ist die andere sauer.
+- Wohin fliegt eine Wolke, wenn es sie juckt? Zum Wolkenkratzer.
+- Treffen sich zwei Fische im Meer. Sagt der eine: "Hi", fragt der andere: "Wo?"
+- Wo können Pilze Fußball spielen? In der Champignons League.
+- Wie heißen die Geschwister vom Werwolf? Waswolf und Wiewolf.
+- Was tut eine Tomate auf dem Fußballfeld? Faulen.
+- Wo bildet sich eine Kartoffel weiter? Auf der Ackerdemie.
+- Wie nennt man ein Kamel ohne Höcker? Pferd.
+- Wo macht ein Skelett Urlaub? Am Toten Meer.
+- Was ist schwarz-weiß und rot? Ein Zebra mit Sonnenbrand.
+- Was hat scharfe Zähne, aber keinen Mund? Eine Säge.
+- Was ist braun und fährt übers Meer? Ein Kötchen.
+- Was schwimmt im Meer und kann schlecht sehen? Der Blindfisch.
+- Was ist gefiedert und quasselt ununterbrochen? Ein Plappagei.
+- Wohin schwimmen Delfine nach der Hochzeit? In die Flipperwochen.
+- Welche Musik hören Schafe am liebsten? Mählodien.
+- Was ist gelb und hüpft die ganze Zeit umher? Eine Hampelmuse.
+- Was ist knusprig und schwimmt im Wasser? Ein Segelbrötchen.
+- Was macht ein Italiener auf dem Spielplatz? Ciaokeln.
+- Was ist tollpatschig und fliegt durchs Weltall? Ein Trottelit.
+- Was ist ein Champignon, der im Lotto gewinnt? Ein Glückspilz.
+- Wie heißt ein Labrador, der müde ist? Ein Schlapprador.
+- Wovon leben Eichhörnchen? Von ihren Ersparnüssen.
+- Was essen Astronauten am liebsten? Mars.
+- Wozu braucht man Detektive im Sommer? Zum Beschatten.
+- Wo findet man alte Kühe? Im Muh-seum!
+- Wer hat Arme, aber keine Beine? Der Armleuchter.
+- Was bekommt man, wenn man zu heißen Kakao trinkt? Gebrannte Mandeln.
+- Wer führt ein sehr aufreibendes Leben? Ein Radiergummi.
+- Wie nennt man einen Wurm mit Fieber? Ein Glühwürmchen.
+- Wer ist schwarz-weiß und kann den Schnabel nicht halten? Der Plapperstorch.
+- Wie nennt man einen Maulwurf, der keine Löcher graben will? Faulwurf.
+- Wie nennt man eine Kuh auf dem Trampolin? Milchshake.
+- Was macht ein Hai auf dem Campingplatz? Er frisst die Heringe.
+- Warum haben alle Eisbären Fell? Weil die Winterjacken zu klein waren.
+- Was ruft ein Skelett, wenn ein Leichenwagen vorbeifährt? Hallo, Taxi!
+- Was macht Krach und fliegt durchs All? Ein Astrolaut.
+- Was haben eine Taube und ein Auto gemeinsam? Gurrt.
+- Was fängt mit Y an und kann bellen? Yvonnes Hund.
+- Wie nennt man ein Lama, das auf Margarine ausrutscht und gegen eine Glocke knallt? RamaLamaDingDong.
+- Wie heißt die Mama von Benjamin Blümchen? Mutter Töröösa.
+- Welches Gericht schmeckt nach Eisen? Der Eintopf.
+- Wie heißt die Frau von Mozart? Mozzarella.
+- Was macht die Spinne im Fundbüro? Sie hat den Faden verloren.
+- Welcher Peter macht am meisten Krach? Der Trompeter.
