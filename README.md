@@ -431,6 +431,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
 - Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
 - Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
+- Wie nennt man es, wenn man Buchstabensuppe erbricht? Gebrochenes Deutsch
 - Wie nennt man die Zeitform wenn der Bus pünktlich war? Buskamperfekt!
 - Wie nennt man ein Kamel mit 3 Höckern? Schwanger.
 - Wie nennt man ein Monster mit Schnupfen? Rotzilla.
